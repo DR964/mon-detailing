@@ -1,1 +1,95 @@
-{}
+{
+  "settings": {
+    "companyName": "Mon Détailing",
+    "companyLogo": null,
+    "currency": "€",
+    "technicians": [],
+    "services": [
+      "Lavage extérieur",
+      "Lavage intérieur",
+      "Lavage complet",
+      "Polissage",
+      "Céramique",
+      "Protection peinture",
+      "Traitement vitres",
+      "Nettoyage moteur",
+      "Décontamination",
+      "Lustrage",
+      "Rénovation phares",
+      "Tapis & sellerie",
+      "Correction peinture",
+      "Nano-coating"
+    ]
+  },
+  "revenues": [
+    {
+      "date": "2026-02-22",
+      "timeStart": "15:00",
+      "timeEnd": "19:00",
+      "vehicleId": "tnmbndnxgmlzp5pfy",
+      "plate": "EW194SH",
+      "brand": "Peugeot ",
+      "model": "2008",
+      "vehicleSize": "SUV",
+      "difficulty": 3,
+      "clientId": "uy3sqft1umlzp5pfy",
+      "clientFirst": "Marie-Louise",
+      "clientLast": "Pereira de Almeida",
+      "clientPhone": "0638499524",
+      "clientStreetNum": "2",
+      "clientStreetName": "Rue de la halle",
+      "clientZip": "51270",
+      "clientCity": "Baye",
+      "clientNote": 5,
+      "amount": 0,
+      "locationStreetNum": "2",
+      "locationStreetName": "Rue de la halle",
+      "locationZip": "51270",
+      "locationCity": "Baye",
+      "paymentMethod": "espèce",
+      "paidToTech": "",
+      "remarks": "",
+      "invoiceNumber": "",
+      "invoiceFile": null,
+      "carPhoto": null,
+      "isGift": true,
+      "technicians": [],
+      "prestations": [
+        "Lavage intérieur"
+      ],
+      "customPrestation": "",
+      "paidToTechs": [],
+      "id": "wxi9vse7kmlzp5pfz",
+      "duration": 240,
+      "type": "revenue",
+      "location": "2 Rue de la halle 51270 Baye"
+    }
+  ],
+  "expenses": [],
+  "clients": [
+    {
+      "id": "uy3sqft1umlzp5pfy",
+      "firstName": "Marie-Louise",
+      "lastName": "Pereira de Almeida",
+      "phone": "0638499524",
+      "address": "2 Rue de la halle 51270 Baye",
+      "streetNum": "2",
+      "streetName": "Rue de la halle",
+      "zip": "51270",
+      "city": "Baye",
+      "note": 5
+    }
+  ],
+  "vehicles": [
+    {
+      "id": "tnmbndnxgmlzp5pfy",
+      "plate": "EW194SH",
+      "brand": "Peugeot ",
+      "model": "2008",
+      "size": "SUV",
+      "ownerId": "uy3sqft1umlzp5pfy"
+    }
+  ],
+  "locations": [],
+  "appointments": []
+}
