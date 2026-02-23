@@ -50,7 +50,7 @@
       "locationZip": "51270",
       "locationCity": "Baye",
       "paymentMethod": "espèce",
-      "paidToTech": "",
+      "paidToTech": "David",
       "remarks": "",
       "invoiceNumber": "",
       "invoiceFile": null,
@@ -64,7 +64,10 @@
         "Lavage intérieur"
       ],
       "customPrestation": "",
-      "paidToTechs": [],
+      "paidToTechs": [
+        "David",
+        "Gabriel"
+      ],
       "id": "vq81l5vmmmlzpx95j",
       "duration": 240,
       "type": "revenue",
