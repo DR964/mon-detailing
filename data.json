@@ -3,7 +3,9 @@
     "companyName": "Mon Détailing",
     "companyLogo": null,
     "currency": "€",
-    "technicians": [],
+    "technicians": [
+      "David"
+    ],
     "services": [
       "Lavage extérieur",
       "Lavage intérieur",
