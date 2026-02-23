@@ -10,18 +10,7 @@
     "services": [
       "Lavage extérieur",
       "Lavage intérieur",
-      "Lavage complet",
-      "Polissage",
-      "Céramique",
-      "Protection peinture",
-      "Traitement vitres",
-      "Nettoyage moteur",
-      "Décontamination",
-      "Lustrage",
-      "Rénovation phares",
-      "Tapis & sellerie",
-      "Correction peinture",
-      "Nano-coating"
+      "Lavage complet"
     ]
   },
   "revenues": [
