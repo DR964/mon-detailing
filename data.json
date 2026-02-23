@@ -56,7 +56,10 @@
       "invoiceFile": null,
       "carPhoto": null,
       "isGift": true,
-      "technicians": [],
+      "technicians": [
+        "David",
+        "Gabriel"
+      ],
       "prestations": [
         "Lavage intérieur"
       ],
