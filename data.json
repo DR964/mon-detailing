@@ -1,21 +1,23 @@
 {
   "settings": {
-    "companyName": "Mon Détailing",
+    "companyName": "Mon DÃ©tailing",
     "companyLogo": null,
-    "currency": "€",
-    "technicians": [],
+    "currency": "â¬",
+    "technicians": [
+      "David"
+    ],
     "services": [
-      "Lavage extérieur",
-      "Lavage intérieur",
+      "Lavage extÃ©rieur",
+      "Lavage intÃ©rieur",
       "Lavage complet",
       "Polissage",
-      "Céramique",
+      "CÃ©ramique",
       "Protection peinture",
       "Traitement vitres",
       "Nettoyage moteur",
-      "Décontamination",
+      "DÃ©contamination",
       "Lustrage",
-      "Rénovation phares",
+      "RÃ©novation phares",
       "Tapis & sellerie",
       "Correction peinture",
       "Nano-coating"
@@ -46,7 +48,7 @@
       "locationStreetName": "Rue de la halle",
       "locationZip": "51270",
       "locationCity": "Baye",
-      "paymentMethod": "espèce",
+      "paymentMethod": "espÃ¨ce",
       "paidToTech": "",
       "remarks": "",
       "invoiceNumber": "",
@@ -55,7 +57,7 @@
       "isGift": true,
       "technicians": [],
       "prestations": [
-        "Lavage intérieur"
+        "Lavage intÃ©rieur"
       ],
       "customPrestation": "",
       "paidToTechs": [],
