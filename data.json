@@ -4,7 +4,8 @@
     "companyLogo": null,
     "currency": "€",
     "technicians": [
-      "David"
+      "David",
+      "Gabriel"
     ],
     "services": [
       "Lavage extérieur",
