@@ -61,6 +61,58 @@
       "duration": 240,
       "type": "revenue",
       "location": "2 Rue de la Halle 51270 Baye"
+    },
+    {
+      "date": "2026-02-24",
+      "timeStart": "18:00",
+      "timeEnd": "19:00",
+      "vehicleId": "qfpchv3qhmm0xpbye",
+      "plate": "AT593YF",
+      "brand": "Peugeot",
+      "model": "207",
+      "vehicleSize": "citadine",
+      "difficulty": 2,
+      "clientId": "9r8fdr6khmm0xpbye",
+      "clientFirst": "Aïda",
+      "clientLast": "Pais de Almeida",
+      "clientPhone": "0646491224",
+      "clientStreetNum": "8",
+      "clientStreetName": "Rue de Montperthuis",
+      "clientZip": "51270",
+      "clientCity": "Baye",
+      "clientNote": 5,
+      "amount": 0,
+      "locationStreetNum": "8",
+      "locationStreetName": "Rue de montperthuis",
+      "locationZip": "51270",
+      "locationCity": "Baye",
+      "paymentMethod": "espèce",
+      "paidToTech": "David",
+      "remarks": "",
+      "invoiceNumber": "",
+      "invoiceFile": null,
+      "carPhoto": null,
+      "isGift": true,
+      "technicians": [
+        "David"
+      ],
+      "prestations": [
+        "Lavage intérieur"
+      ],
+      "customPrestation": "",
+      "paidToTechs": [
+        "David"
+      ],
+      "splitMode": "equitable",
+      "techAmounts": {},
+      "deposit": "",
+      "depositTechs": [],
+      "depositTechAmounts": {},
+      "depositSplitMode": "equitable",
+      "id": "cp5o9o4pemm0xpbye",
+      "duration": 60,
+      "type": "revenue",
+      "location": "8 Rue de montperthuis 51270 Baye"
     }
   ],
   "expenses": [
@@ -471,6 +523,18 @@
       "lastName": "Portela",
       "phone": "",
       "note": 3
+    },
+    {
+      "id": "9r8fdr6khmm0xpbye",
+      "firstName": "Aïda",
+      "lastName": "Pais de Almeida",
+      "phone": "0646491224",
+      "address": "8 Rue de Montperthuis 51270 Baye",
+      "streetNum": "8",
+      "streetName": "Rue de Montperthuis",
+      "zip": "51270",
+      "city": "Baye",
+      "note": 5
     }
   ],
   "vehicles": [
@@ -481,10 +545,19 @@
       "model": "2008",
       "size": "SUV",
       "ownerId": "fhjn95tqlmlzpx95j"
+    },
+    {
+      "id": "qfpchv3qhmm0xpbye",
+      "plate": "AT593YF",
+      "brand": "Peugeot",
+      "model": "207",
+      "size": "citadine",
+      "ownerId": "9r8fdr6khmm0xpbye"
     }
   ],
   "locations": [
-    "Cormontreuil"
+    "Cormontreuil",
+    "8 Rue de montperthuis 51270 Baye"
   ],
   "appointments": [
     {
