@@ -243,15 +243,19 @@
       "invoiceFile": null,
       "remarks": "",
       "paidByTechs": [
-        "Gabriel",
-        "David"
+        "Gabriel"
       ],
       "id": "25d43j1fumm07hub2",
       "amount": 9.98,
       "type": "expense",
       "productName": "C SET BROSSE DEXTER 50/85/100MM 3PCS",
       "location": "",
-      "paidByTech": "Gabriel"
+      "paidByTech": "Gabriel",
+      "txType": "expense",
+      "splitMode": "equitable",
+      "techAmounts": {
+        "Gabriel": 9.98
+      }
     }
   ],
   "clients": [
