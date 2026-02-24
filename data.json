@@ -206,8 +206,7 @@
       "invoiceFile": null,
       "remarks": "",
       "paidByTechs": [
-        "Gabriel",
-        "David"
+        "Gabriel"
       ],
       "id": "1k4o3u3wkmm07feud",
       "amount": 11.96,
@@ -215,7 +214,11 @@
       "productName": "Microfibre",
       "location": "",
       "paidByTech": "Gabriel",
-      "txType": "expense"
+      "txType": "expense",
+      "splitMode": "equitable",
+      "techAmounts": {
+        "Gabriel": 11.96
+      }
     },
     {
       "items": [
