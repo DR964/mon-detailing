@@ -286,8 +286,12 @@
       "plate": "TQT",
       "brand": "",
       "model": "",
-      "size": "moto",
-      "ownerId": ""
+      "size": "citadine",
+      "ownerId": "",
+      "revs": [],
+      "totalRevenue": 0,
+      "avgDiff": 0,
+      "lastDate": null
     }
   ],
   "locations": [],
