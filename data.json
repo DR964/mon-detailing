@@ -126,7 +126,6 @@
       "invoiceFile": null,
       "remarks": "",
       "paidByTechs": [
-        "David",
         "Gabriel"
       ],
       "id": "i2f13dtnpmm0777ic",
@@ -134,8 +133,13 @@
       "type": "expense",
       "productName": "DETACHEUR SE3 COMPACT PORTABLE KARCHER, ASPI KARCHER WD3S JEU DE BROSSES, NETT VAPEUR SC3+LINGETTE SP  KARCHER BLC, C LOT 4 EPONGE MICROFIBRE RECYCLEE, SUCEUR EXTRA LONG DEXTER DXFX20, NETTOY PROTECT MOQUET TAPIS 0.5L  KARCHER, NETTOYANT RM519 POUR SE4001 KARCHER",
       "location": "Cormontreuil",
-      "paidByTech": "David",
-      "txType": "expense"
+      "paidByTech": "Gabriel",
+      "txType": "expense",
+      "splitMode": "manuel",
+      "techAmounts": {
+        "David": "470.68",
+        "Gabriel": "470.68"
+      }
     },
     {
       "items": [
@@ -282,7 +286,9 @@
       "ownerId": "fhjn95tqlmlzpx95j"
     }
   ],
-  "locations": [],
+  "locations": [
+    "Cormontreuil"
+  ],
   "appointments": [
     {
       "date": "2026-02-28",
@@ -356,5 +362,6 @@
       "duration": 0,
       "location": ""
     }
-  ]
+  ],
+  "transfers": []
 }
