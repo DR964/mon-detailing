@@ -390,6 +390,27 @@
           "description": "set de pinceaux 10 pcs",
           "qty": 1,
           "unitPrice": "1.92"
+        },
+        {
+          "id": "db17k2k2vmm0p55xi",
+          "ref": "",
+          "description": "pinceau",
+          "qty": "2",
+          "unitPrice": "1.09"
+        },
+        {
+          "id": "gsc50h27lmm0p5xfu",
+          "ref": "",
+          "description": "Arroseur plante",
+          "qty": "2",
+          "unitPrice": "2.49"
+        },
+        {
+          "id": "edwcyntokmm0p69hc",
+          "ref": "",
+          "description": "Elastomap",
+          "qty": 1,
+          "unitPrice": "0.59"
         }
       ],
       "supplier": "Action",
@@ -398,18 +419,23 @@
       "locationZip": "",
       "locationCity": "",
       "date": "2026-02-24",
-      "paymentMethod": "espèce",
+      "paymentMethod": "carte",
       "invoiceFile": null,
       "remarks": "",
-      "paidByTechs": [],
+      "paidByTechs": [
+        "Gabriel"
+      ],
       "splitMode": "equitable",
-      "techAmounts": {},
+      "techAmounts": {
+        "Gabriel": 9.67
+      },
       "id": "fp0zolp4cmm0owoe7",
-      "amount": 1.92,
+      "amount": 9.67,
       "type": "expense",
-      "productName": "set de pinceaux 10 pcs",
+      "productName": "set de pinceaux 10 pcs, pinceau, Arroseur plante, Elastomap",
       "location": "",
-      "paidByTech": ""
+      "paidByTech": "Gabriel",
+      "txType": "expense"
     }
   ],
   "clients": [
