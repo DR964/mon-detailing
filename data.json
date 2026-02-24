@@ -500,6 +500,16 @@
   ],
   "transfers": [
     {
+      "date": "2026-02-22",
+      "from": "David",
+      "to": "Gabriel",
+      "amount": 51.75,
+      "note": "",
+      "paymentMethod": "virement",
+      "id": "uzz7mpuvbmm0okyur",
+      "type": "transfer"
+    },
+    {
       "date": "2026-02-21",
       "from": "David",
       "to": "Gabriel",
