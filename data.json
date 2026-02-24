@@ -113,6 +113,59 @@
       "duration": 60,
       "type": "revenue",
       "location": "8 Rue de montperthuis 51270 Baye"
+    },
+    {
+      "date": "2026-02-28",
+      "timeStart": "",
+      "timeEnd": "",
+      "vehicleId": "e6ivsnj5amm0y8bru",
+      "plate": "JSP",
+      "brand": "",
+      "model": "",
+      "vehicleSize": "berline",
+      "difficulty": 3,
+      "clientId": "0mnuwcnjqmlzqaa36",
+      "clientFirst": "Bruno",
+      "clientLast": "Real",
+      "clientPhone": "",
+      "clientStreetNum": "",
+      "clientStreetName": "",
+      "clientZip": "",
+      "clientCity": "",
+      "clientNote": 3,
+      "amount": 100,
+      "locationStreetNum": "",
+      "locationStreetName": "",
+      "locationZip": "",
+      "locationCity": "",
+      "paymentMethod": "espèce",
+      "paidToTech": "",
+      "remarks": "",
+      "invoiceNumber": "",
+      "invoiceFile": null,
+      "carPhoto": null,
+      "isGift": false,
+      "technicians": [
+        "David",
+        "Gabriel"
+      ],
+      "prestations": [
+        "Lavage intérieur"
+      ],
+      "customPrestation": "",
+      "paidToTechs": [],
+      "deposit": "",
+      "depositTechs": [],
+      "depositTechAmounts": {},
+      "depositSplitMode": "equitable",
+      "location": "",
+      "duration": 0,
+      "fromAppointmentId": "s8k7oqjgimlzqaa36",
+      "_apptIdToDelete": "s8k7oqjgimlzqaa36",
+      "splitMode": "equitable",
+      "techAmounts": {},
+      "id": "swygck3simm0y8bru",
+      "type": "revenue"
     }
   ],
   "expenses": [
@@ -553,6 +606,14 @@
       "model": "207",
       "size": "citadine",
       "ownerId": "9r8fdr6khmm0xpbye"
+    },
+    {
+      "id": "e6ivsnj5amm0y8bru",
+      "plate": "JSP",
+      "brand": "",
+      "model": "",
+      "size": "berline",
+      "ownerId": "0mnuwcnjqmlzqaa36"
     }
   ],
   "locations": [
@@ -560,42 +621,6 @@
     "8 Rue de montperthuis 51270 Baye"
   ],
   "appointments": [
-    {
-      "date": "2026-02-28",
-      "timeStart": "",
-      "timeEnd": "",
-      "clientId": "0mnuwcnjqmlzqaa36",
-      "clientFirst": "Bruno",
-      "clientLast": "Real",
-      "clientPhone": "",
-      "vehicleId": "",
-      "plate": "",
-      "brand": "",
-      "model": "",
-      "services": [],
-      "customService": "",
-      "technicians": [
-        "David",
-        "Gabriel"
-      ],
-      "status": "terminé",
-      "priority": "normale",
-      "estimatedPrice": "",
-      "deposit": "",
-      "paymentMethod": "espèce",
-      "locationStreetNum": "",
-      "locationStreetName": "",
-      "locationZip": "",
-      "locationCity": "",
-      "notes": "",
-      "reminderSent": false,
-      "invoiceNumber": "",
-      "indoorOutdoor": "extérieur",
-      "vehicleSize": "berline",
-      "id": "s8k7oqjgimlzqaa36",
-      "duration": 0,
-      "location": ""
-    },
     {
       "date": "2026-02-28",
       "timeStart": "",
