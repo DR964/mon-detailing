@@ -498,5 +498,16 @@
       "location": ""
     }
   ],
-  "transfers": []
+  "transfers": [
+    {
+      "date": "2026-02-21",
+      "from": "David",
+      "to": "Gabriel",
+      "amount": 300,
+      "note": "",
+      "paymentMethod": "virement",
+      "id": "95yiy2jlqmm0ohld7",
+      "type": "transfer"
+    }
+  ]
 }
