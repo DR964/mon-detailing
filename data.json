@@ -555,6 +555,16 @@
   ],
   "transfers": [
     {
+      "date": "2026-02-24",
+      "from": "Gabriel",
+      "to": "David",
+      "amount": 13.49,
+      "note": "Rectification Chargeur action",
+      "paymentMethod": "espèce",
+      "id": "3855cmm7ymm0p7szh",
+      "type": "transfer"
+    },
+    {
       "date": "2026-02-22",
       "from": "David",
       "to": "Gabriel",
