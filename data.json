@@ -381,6 +381,35 @@
       "location": "",
       "paidByTech": "Gabriel",
       "txType": "expense"
+    },
+    {
+      "items": [
+        {
+          "id": "0olzqkj8hmm0ooek4",
+          "ref": "",
+          "description": "set de pinceaux 10 pcs",
+          "qty": 1,
+          "unitPrice": "1.92"
+        }
+      ],
+      "supplier": "Action",
+      "locationStreetNum": "",
+      "locationStreetName": "",
+      "locationZip": "",
+      "locationCity": "",
+      "date": "2026-02-24",
+      "paymentMethod": "espèce",
+      "invoiceFile": null,
+      "remarks": "",
+      "paidByTechs": [],
+      "splitMode": "equitable",
+      "techAmounts": {},
+      "id": "fp0zolp4cmm0owoe7",
+      "amount": 1.92,
+      "type": "expense",
+      "productName": "set de pinceaux 10 pcs",
+      "location": "",
+      "paidByTech": ""
     }
   ],
   "clients": [
