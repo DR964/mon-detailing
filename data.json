@@ -618,7 +618,10 @@
       "model": "",
       "services": [],
       "customService": "",
-      "technicians": [],
+      "technicians": [
+        "David",
+        "Gabriel"
+      ],
       "status": "en attente",
       "priority": "normale",
       "estimatedPrice": "",
