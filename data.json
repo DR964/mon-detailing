@@ -175,7 +175,6 @@
       "invoiceFile": null,
       "remarks": "",
       "paidByTechs": [
-        "David",
         "Gabriel"
       ],
       "id": "gb95gqqt5mm07dmdy",
@@ -183,8 +182,12 @@
       "type": "expense",
       "productName": "Protect plast protec h 500 ml, Nett.plast. protech 500 ml, Opération commerciale ",
       "location": "",
-      "paidByTech": "David",
-      "txType": "expense"
+      "paidByTech": "Gabriel",
+      "txType": "expense",
+      "splitMode": "equitable",
+      "techAmounts": {
+        "Gabriel": 23.98
+      }
     },
     {
       "items": [
