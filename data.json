@@ -363,7 +363,7 @@
       "locationStreetName": "",
       "locationZip": "",
       "locationCity": "",
-      "date": "2026-02-24",
+      "date": "2026-02-22",
       "paymentMethod": "carte",
       "invoiceFile": null,
       "remarks": "",
@@ -379,7 +379,8 @@
       "type": "expense",
       "productName": "Doseur 60ML, Gants nitrile noirs (Boite de 100) (Taille:M), Round Applicator Ultra Premium White (Nb de pièce : à l'unité), Brosse de Nettoyage Cuir, Carpro Leather Brush, Green Star (Contenance : 1L), Fresh Up (Contenance : 1L), Top Star (Contenance : 1L), Pol Star (Contenance : 1L), Leather Star, Mehrzweckreiniger (Contenance : 1L), Glass Cleaner Koch-Chemie (Contenance : 1L), Cosmo Suede 40*40cm (pack de 6), Taxe",
       "location": "",
-      "paidByTech": "Gabriel"
+      "paidByTech": "Gabriel",
+      "txType": "expense"
     }
   ],
   "clients": [
