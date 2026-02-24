@@ -356,6 +356,13 @@
           "description": "Taxe",
           "qty": 1,
           "unitPrice": "25.04"
+        },
+        {
+          "id": "qgnqdbed8mm0pbxa5",
+          "ref": "",
+          "description": "Code promo",
+          "qty": 1,
+          "unitPrice": "-6.59"
         }
       ],
       "supplier": "ManiacAuto",
@@ -372,12 +379,12 @@
       ],
       "splitMode": "equitable",
       "techAmounts": {
-        "Gabriel": 156.84
+        "Gabriel": 150.25
       },
       "id": "08h0zdetsmm0og7sy",
-      "amount": 156.83999999999997,
+      "amount": 150.24999999999997,
       "type": "expense",
-      "productName": "Doseur 60ML, Gants nitrile noirs (Boite de 100) (Taille:M), Round Applicator Ultra Premium White (Nb de pièce : à l'unité), Brosse de Nettoyage Cuir, Carpro Leather Brush, Green Star (Contenance : 1L), Fresh Up (Contenance : 1L), Top Star (Contenance : 1L), Pol Star (Contenance : 1L), Leather Star, Mehrzweckreiniger (Contenance : 1L), Glass Cleaner Koch-Chemie (Contenance : 1L), Cosmo Suede 40*40cm (pack de 6), Taxe",
+      "productName": "Doseur 60ML, Gants nitrile noirs (Boite de 100) (Taille:M), Round Applicator Ultra Premium White (Nb de pièce : à l'unité), Brosse de Nettoyage Cuir, Carpro Leather Brush, Green Star (Contenance : 1L), Fresh Up (Contenance : 1L), Top Star (Contenance : 1L), Pol Star (Contenance : 1L), Leather Star, Mehrzweckreiniger (Contenance : 1L), Glass Cleaner Koch-Chemie (Contenance : 1L), Cosmo Suede 40*40cm (pack de 6), Taxe, Code promo",
       "location": "",
       "paidByTech": "Gabriel",
       "txType": "expense"
