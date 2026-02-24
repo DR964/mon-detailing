@@ -280,18 +280,6 @@
       "model": "2008",
       "size": "SUV",
       "ownerId": "fhjn95tqlmlzpx95j"
-    },
-    {
-      "id": "baot5mpnpmm0jocbs",
-      "plate": "TQT",
-      "brand": "",
-      "model": "",
-      "size": "monospace",
-      "ownerId": "",
-      "revs": [],
-      "totalRevenue": 0,
-      "avgDiff": 0,
-      "lastDate": null
     }
   ],
   "locations": [],
