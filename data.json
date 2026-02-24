@@ -256,6 +256,130 @@
       "techAmounts": {
         "Gabriel": 9.98
       }
+    },
+    {
+      "items": [
+        {
+          "id": "3w654j0fumm0o4pqx",
+          "ref": "AL045DO",
+          "description": "Doseur 60ML",
+          "qty": 1,
+          "unitPrice": "1.83"
+        },
+        {
+          "id": "cjjersk36mm0o6nj4",
+          "ref": "AS001NG-2",
+          "description": "Gants nitrile noirs (Boite de 100) (Taille:M)",
+          "qty": 1,
+          "unitPrice": "9"
+        },
+        {
+          "id": "hr3ggbqmgmm0o7g0w",
+          "ref": "CM056AUPW-1",
+          "description": "Round Applicator Ultra Premium White (Nb de pièce : à l'unité)",
+          "qty": 1,
+          "unitPrice": "3.29"
+        },
+        {
+          "id": "2nzl48ra7mm0o8f9t",
+          "ref": "CO004BR",
+          "description": "Brosse de Nettoyage Cuir",
+          "qty": 1,
+          "unitPrice": "4.58"
+        },
+        {
+          "id": "gihidpojzmm0o91td",
+          "ref": "CP127LB",
+          "description": "Carpro Leather Brush",
+          "qty": 1,
+          "unitPrice": "5.79"
+        },
+        {
+          "id": "b85sml3gsmm0o9q55",
+          "ref": "KC005FE-1",
+          "description": "Green Star (Contenance : 1L)",
+          "qty": 1,
+          "unitPrice": "8.29"
+        },
+        {
+          "id": "woq880k7amm0oab68",
+          "ref": "KC012FR",
+          "description": "Fresh Up (Contenance : 1L)",
+          "qty": 1,
+          "unitPrice": "18.29"
+        },
+        {
+          "id": "byentdfbrmm0ob7o1",
+          "ref": "KC013RS-1",
+          "description": "Top Star (Contenance : 1L)",
+          "qty": 1,
+          "unitPrice": "19.13"
+        },
+        {
+          "id": "yw0rq16zkmm0obu2p",
+          "ref": "KC021PS-1",
+          "description": "Pol Star (Contenance : 1L)",
+          "qty": 1,
+          "unitPrice": "11.63"
+        },
+        {
+          "id": "hn89vsptfmm0ockz5",
+          "ref": "KC032LS",
+          "description": "Leather Star",
+          "qty": 1,
+          "unitPrice": "18.29"
+        },
+        {
+          "id": "3q2ezfdximm0odb4h",
+          "ref": "KC042MN",
+          "description": "Mehrzweckreiniger (Contenance : 1L)",
+          "qty": 1,
+          "unitPrice": "9.96"
+        },
+        {
+          "id": "d7vrxu912mm0oe7mq",
+          "ref": "KC044GC-1",
+          "description": "Glass Cleaner Koch-Chemie (Contenance : 1L)",
+          "qty": 1,
+          "unitPrice": "9.13"
+        },
+        {
+          "id": "o3788xmu7mm0oeyo9",
+          "ref": "MA035CS",
+          "description": "Cosmo Suede 40*40cm (pack de 6)",
+          "qty": 1,
+          "unitPrice": "11.63"
+        },
+        {
+          "id": "jt6x20oobmm0ofnui",
+          "ref": "",
+          "description": "Taxe",
+          "qty": 1,
+          "unitPrice": "25.04"
+        }
+      ],
+      "supplier": "ManiacAuto",
+      "locationStreetNum": "",
+      "locationStreetName": "",
+      "locationZip": "",
+      "locationCity": "",
+      "date": "2026-02-24",
+      "paymentMethod": "carte",
+      "invoiceFile": null,
+      "remarks": "",
+      "paidByTechs": [
+        "Gabriel"
+      ],
+      "splitMode": "equitable",
+      "techAmounts": {
+        "Gabriel": 155.88
+      },
+      "id": "08h0zdetsmm0og7sy",
+      "amount": 155.88,
+      "type": "expense",
+      "productName": "Doseur 60ML, Gants nitrile noirs (Boite de 100) (Taille:M), Round Applicator Ultra Premium White (Nb de pièce : à l'unité), Brosse de Nettoyage Cuir, Carpro Leather Brush, Green Star (Contenance : 1L), Fresh Up (Contenance : 1L), Top Star (Contenance : 1L), Pol Star (Contenance : 1L), Leather Star, Mehrzweckreiniger (Contenance : 1L), Glass Cleaner Koch-Chemie (Contenance : 1L), Cosmo Suede 40*40cm (pack de 6), Taxe",
+      "location": "",
+      "paidByTech": "Gabriel"
     }
   ],
   "clients": [
