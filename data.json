@@ -149,7 +149,9 @@
         "David",
         "Gabriel"
       ],
-      "prestations": [],
+      "prestations": [
+        "Lavage intérieur"
+      ],
       "customPrestation": "",
       "paidToTechs": [],
       "deposit": "",
@@ -163,7 +165,8 @@
       "splitMode": "equitable",
       "techAmounts": {},
       "id": "qjg7rc66bmm1spuw4",
-      "type": "revenue"
+      "type": "revenue",
+      "txType": "revenue"
     }
   ],
   "expenses": [
