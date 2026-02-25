@@ -212,15 +212,6 @@
           "unitPrice": "16.99",
           "taxRate": 20,
           "priceMode": "ttc"
-        },
-        {
-          "id": "72qhhj5xtmm07cdg5",
-          "ref": "",
-          "description": "Opération commerciale ",
-          "qty": 1,
-          "unitPrice": "-12",
-          "taxRate": 20,
-          "priceMode": "ttc"
         }
       ],
       "supplier": "Norauto",
@@ -238,7 +229,7 @@
       "id": "gb95gqqt5mm07dmdy",
       "amount": 23.979999999999997,
       "type": "expense",
-      "productName": "Protect plast protec h 500 ml, Nett.plast. protech 500 ml, Opération commerciale ",
+      "productName": "Protect plast protec h 500 ml, Nett.plast. protech 500 ml",
       "location": "",
       "paidByTech": "Gabriel",
       "txType": "expense",
@@ -248,11 +239,12 @@
       },
       "time": "17:54",
       "deliveryFees": "",
-      "discount": "",
+      "discount": "12",
       "discountType": "amount",
-      "amountHT": 19.983333333333334,
+      "amountHT": 29.983333333333334,
       "totalTVA": 3.9966666666666626,
-      "discountAmount": 0
+      "discountAmount": 12,
+      "discountBase": "ttc"
     },
     {
       "items": [
