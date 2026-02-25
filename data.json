@@ -573,6 +573,16 @@
   "appointments": [],
   "transfers": [
     {
+      "date": "2026-02-25",
+      "from": "David",
+      "to": "Gabriel",
+      "amount": 1,
+      "note": "Il faut aussi pouvoir enregistrer ou imprimer toutes les fiches. Echange les contenu de historique et acceuil (Donc 1: Acceuil (Historique), 2 stats, 3 annuaire, 4 RDV, 5 Produits, 6 réglages). Enlever l'hstorique transfert car tous est maintenant dans l'acceuil et pouvoir modifier les fiche tranfert directement depuis l'historique. Je veux aussi pouvoir voir une fiche transfert aussi en format facture comme tout le reste. Les lettres en grises sont difficile a voir, faure quelque chose pour bien voir toutes les écritures",
+      "paymentMethod": "espèce",
+      "id": "z3ojvmwn5mm1usbso",
+      "type": "transfer"
+    },
+    {
       "date": "2026-02-24",
       "from": "Gabriel",
       "to": "David",
