@@ -573,16 +573,6 @@
   "appointments": [],
   "transfers": [
     {
-      "date": "2026-02-25",
-      "from": "David",
-      "to": "Gabriel",
-      "amount": 2,
-      "note": "ajouter l'heure à laquel les dépenses sont faites, ensuite pouvoir mettre des promotions dans les factures et d'éventuels frais le livraison pour les dépenses et frais de déplacement pour les revenus, marqué à chaque fois le prix HT et le prix TTC avec taux de taxe réglable (de 0 à 20%) par produit et complétation automatique de HT si prix TTC renseignée et de TTC si prix HT renseigné et ajout de prix HT et prix TTC à la fin. Appel tout les fichier que tu menvoie : index.html. Si je clique sur le RDV, je veux qu'une fiche rendez vous au format facture comme les autres apparaissent. Si plusieurs prestation réalisé, il faut pouvoir renseigné combien chaque prestation est facturée lorsqu'on remplis une fiche facture. Il faut aussi pouvoir enregistrer ou imprimer toutes les fiches. Echange les contenu de historique et acceuil (Donc 1: Acceuil (Historique), 2 stats, 3 annuaire, 4 RDV, 5 Produits, 6 réglages). Enlever l'hstorique transfert car tous est maintenant dans l'acceuil et pouvoir modifier les fiche tranfert directement depuis l'historique. Je veux aussi pouvoir voir une fiche transfert aussi en format facture comme tout le reste",
-      "paymentMethod": "espèce",
-      "id": "k00hpvzz1mm1t2wt9",
-      "type": "transfer"
-    },
-    {
       "date": "2026-02-24",
       "from": "Gabriel",
       "to": "David",
