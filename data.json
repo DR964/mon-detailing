@@ -282,7 +282,9 @@
           "ref": "Η 3276007814842",
           "description": "C SET BROSSE DEXTER 50/85/100MM 3PCS",
           "qty": "2",
-          "unitPrice": "4.99"
+          "unitPrice": "4.99",
+          "taxRate": 20,
+          "priceMode": "ttc"
         }
       ],
       "supplier": "LeroyMerlin",
@@ -307,7 +309,14 @@
       "splitMode": "equitable",
       "techAmounts": {
         "Gabriel": 9.98
-      }
+      },
+      "time": "",
+      "deliveryFees": "",
+      "discount": "",
+      "discountType": "amount",
+      "amountHT": 8.316666666666668,
+      "totalTVA": 1.6633333333333322,
+      "discountAmount": 0
     },
     {
       "items": [
