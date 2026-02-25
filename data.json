@@ -11,7 +11,8 @@
       "Lavage extérieur",
       "Lavage intérieur",
       "Lavage complet"
-    ]
+    ],
+    "tvaRate": "0"
   },
   "revenues": [
     {
