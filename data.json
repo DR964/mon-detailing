@@ -546,6 +546,13 @@
       "zip": "51270",
       "city": "Baye",
       "note": 5
+    },
+    {
+      "id": "oqxbspa2amm1v9rug",
+      "firstName": "Bruno",
+      "lastName": "",
+      "phone": "",
+      "note": 3
     }
   ],
   "vehicles": [
@@ -570,7 +577,49 @@
     "Cormontreuil",
     "8 Rue de montperthuis 51270 Baye"
   ],
-  "appointments": [],
+  "appointments": [
+    {
+      "date": "2026-02-28",
+      "timeStart": "",
+      "timeEnd": "",
+      "clientId": "oqxbspa2amm1v9rug",
+      "clientFirst": "Bruno",
+      "clientLast": "",
+      "clientPhone": "",
+      "vehicleId": "",
+      "plate": "",
+      "brand": "",
+      "model": "",
+      "services": [
+        "Lavage intérieur"
+      ],
+      "customService": "",
+      "technicians": [
+        "David",
+        "Gabriel"
+      ],
+      "status": "en attente",
+      "priority": "normale",
+      "estimatedPrice": "",
+      "deposit": "",
+      "paymentMethod": "espèce",
+      "depositSplitMode": "equitable",
+      "depositTechs": [],
+      "depositTechAmounts": {},
+      "locationStreetNum": "",
+      "locationStreetName": "",
+      "locationZip": "",
+      "locationCity": "",
+      "notes": "",
+      "reminderSent": false,
+      "invoiceNumber": "",
+      "indoorOutdoor": "extérieur",
+      "vehicleSize": "berline",
+      "id": "at6akplugmm1v9rug",
+      "duration": 0,
+      "location": ""
+    }
+  ],
   "transfers": [
     {
       "date": "2026-02-25",
