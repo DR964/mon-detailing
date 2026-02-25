@@ -123,49 +123,63 @@
           "ref": "Η 4066529001580",
           "description": "DETACHEUR SE3 COMPACT PORTABLE KARCHER",
           "qty": 1,
-          "unitPrice": "190"
+          "unitPrice": "190",
+          "taxRate": 20,
+          "priceMode": "ttc"
         },
         {
           "id": "63mtd03e0mm070sl2",
           "ref": "Η 4054278950914",
           "description": "ASPI KARCHER WD3S JEU DE BROSSES",
           "qty": 1,
-          "unitPrice": "94.90"
+          "unitPrice": "94.90",
+          "taxRate": 20,
+          "priceMode": "ttc"
         },
         {
           "id": "l9oxgd7egmm072col",
           "ref": "Η 4066529108647",
           "description": "NETT VAPEUR SC3+LINGETTE SP  KARCHER BLC",
           "qty": 1,
-          "unitPrice": "129"
+          "unitPrice": "129",
+          "taxRate": 20,
+          "priceMode": "ttc"
         },
         {
           "id": "l4z6e3u8lmm072uzp",
           "ref": "Η 4003073937927",
           "description": "C LOT 4 EPONGE MICROFIBRE RECYCLEE",
           "qty": 1,
-          "unitPrice": "9.99"
+          "unitPrice": "9.99",
+          "taxRate": 20,
+          "priceMode": "ttc"
         },
         {
           "id": "994w524mvmm073uzo",
           "ref": "Η 7319599010516",
           "description": "SUCEUR EXTRA LONG DEXTER DXFX20",
           "qty": 1,
-          "unitPrice": "9.99"
+          "unitPrice": "9.99",
+          "taxRate": 20,
+          "priceMode": "ttc"
         },
         {
           "id": "cbqljo0oumm074d2p",
           "ref": "Η 4039784712645",
           "description": "NETTOY PROTECT MOQUET TAPIS 0.5L  KARCHER",
           "qty": 1,
-          "unitPrice": "24.90"
+          "unitPrice": "24.90",
+          "taxRate": 20,
+          "priceMode": "ttc"
         },
         {
           "id": "t0xymrczrmm075196",
           "ref": "Η 4039784712669",
           "description": "NETTOYANT RM519 POUR SE4001 KARCHER",
           "qty": 1,
-          "unitPrice": "11.90"
+          "unitPrice": "11.90",
+          "taxRate": 20,
+          "priceMode": "ttc"
         }
       ],
       "supplier": "Leroy Merlin",
@@ -191,7 +205,14 @@
       "techAmounts": {
         "David": "470.68",
         "Gabriel": "470.68"
-      }
+      },
+      "time": "",
+      "deliveryFees": "",
+      "discount": "",
+      "discountType": "amount",
+      "amountHT": 392.23333333333335,
+      "totalTVA": 78.4466666666666,
+      "discountAmount": 0
     },
     {
       "items": [
