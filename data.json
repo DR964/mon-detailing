@@ -12,7 +12,8 @@
       "Lavage intérieur",
       "Lavage complet"
     ],
-    "tvaRate": "0"
+    "tvaRate": "0",
+    "siret": "0"
   },
   "revenues": [
     {
