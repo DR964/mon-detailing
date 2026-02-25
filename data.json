@@ -477,28 +477,36 @@
           "ref": "",
           "description": "set de pinceaux 10 pcs",
           "qty": 1,
-          "unitPrice": "1.92"
+          "unitPrice": "1.92",
+          "taxRate": 20,
+          "priceMode": "ttc"
         },
         {
           "id": "db17k2k2vmm0p55xi",
           "ref": "",
           "description": "pinceau",
           "qty": "2",
-          "unitPrice": "1.09"
+          "unitPrice": "1.09",
+          "taxRate": 20,
+          "priceMode": "ttc"
         },
         {
           "id": "gsc50h27lmm0p5xfu",
           "ref": "",
           "description": "Arroseur plante",
           "qty": "2",
-          "unitPrice": "2.49"
+          "unitPrice": "2.49",
+          "taxRate": 20,
+          "priceMode": "ttc"
         },
         {
           "id": "edwcyntokmm0p69hc",
           "ref": "",
           "description": "Elastomap",
           "qty": 1,
-          "unitPrice": "0.59"
+          "unitPrice": "0.59",
+          "taxRate": 20,
+          "priceMode": "ttc"
         }
       ],
       "supplier": "Action",
@@ -523,7 +531,14 @@
       "productName": "set de pinceaux 10 pcs, pinceau, Arroseur plante, Elastomap",
       "location": "",
       "paidByTech": "Gabriel",
-      "txType": "expense"
+      "txType": "expense",
+      "time": "",
+      "deliveryFees": "",
+      "discount": "",
+      "discountType": "amount",
+      "amountHT": 8.058333333333334,
+      "totalTVA": 1.6116666666666664,
+      "discountAmount": 0
     }
   ],
   "clients": [
