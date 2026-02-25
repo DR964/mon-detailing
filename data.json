@@ -427,15 +427,6 @@
           "unitPrice": "11.63",
           "taxRate": 20,
           "priceMode": "ht"
-        },
-        {
-          "id": "qgnqdbed8mm0pbxa5",
-          "ref": "",
-          "description": "Code promo",
-          "qty": 1,
-          "unitPrice": "-6.59",
-          "taxRate": 20,
-          "priceMode": "ht"
         }
       ],
       "supplier": "ManiacAuto",
@@ -457,14 +448,18 @@
       "id": "08h0zdetsmm0og7sy",
       "amount": 150.25199999999998,
       "type": "expense",
-      "productName": "Doseur 60ML, Gants nitrile noirs (Boite de 100) (Taille:M), Round Applicator Ultra Premium White (Nb de pièce : à l'unité), Brosse de Nettoyage Cuir, Carpro Leather Brush, Green Star (Contenance : 1L), Fresh Up (Contenance : 1L), Top Star (Contenance : 1L), Pol Star (Contenance : 1L), Leather Star, Mehrzweckreiniger (Contenance : 1L), Glass Cleaner Koch-Chemie (Contenance : 1L), Cosmo Suede 40*40cm (pack de 6), Code promo",
+      "productName": "Doseur 60ML, Gants nitrile noirs (Boite de 100) (Taille:M), Round Applicator Ultra Premium White (Nb de pièce : à l'unité), Brosse de Nettoyage Cuir, Carpro Leather Brush, Green Star (Contenance : 1L), Fresh Up (Contenance : 1L), Top Star (Contenance : 1L), Pol Star (Contenance : 1L), Leather Star, Mehrzweckreiniger (Contenance : 1L), Glass Cleaner Koch-Chemie (Contenance : 1L), Cosmo Suede 40*40cm (pack de 6)",
       "location": "",
       "paidByTech": "Gabriel",
       "txType": "expense",
       "time": "",
       "deliveryFees": "",
-      "amountHT": 125.20999999999998,
-      "totalTVA": 25.042
+      "amountHT": 131.79999999999998,
+      "totalTVA": 25.041999999999998,
+      "discount": "6.59",
+      "discountType": "amount",
+      "discountBase": "ht",
+      "discountAmount": 7.9079999999999995
     },
     {
       "items": [
