@@ -588,7 +588,7 @@
       ],
       "status": "en attente",
       "priority": "normale",
-      "estimatedPrice": "",
+      "estimatedPrice": "60",
       "deposit": "",
       "paymentMethod": "espèce",
       "locationStreetNum": "",
@@ -602,7 +602,10 @@
       "vehicleSize": "berline",
       "id": "izutckx20mlzqbz0k",
       "duration": 0,
-      "location": ""
+      "location": "",
+      "depositSplitMode": "equitable",
+      "depositTechs": [],
+      "depositTechAmounts": {}
     },
     {
       "date": "2026-02-28",
