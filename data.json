@@ -17,7 +17,8 @@
     "email": "",
     "accentColor": "#ef4444",
     "invoiceFooter": "",
-    "defaultLocation": ""
+    "defaultLocation": "",
+    "phone": ""
   },
   "revenues": [
     {
