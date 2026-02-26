@@ -33,7 +33,8 @@
       "nettoyant_rm519_pour_se4001_karcher": "produits"
     },
     "volOverrides": {
-      "leather_star": "1L"
+      "leather_star": "1L",
+      "nettoyant_rm519_pour_se4001_karcher": "1L"
     },
     "nameOverrides": {
       "glass_cleaner_koch_chemie|1L": "Glass Cleaner"
