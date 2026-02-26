@@ -99,6 +99,9 @@
       "clientCity": "Baye",
       "clientNote": 5,
       "amount": 0,
+      "amountHT": 0,
+      "taxRate": 20,
+      "priceMode": "ttc",
       "locationStreetNum": "2",
       "locationStreetName": "Rue de la Halle",
       "locationZip": "51270",
@@ -118,6 +121,10 @@
         "Lavage intérieur"
       ],
       "customPrestation": "",
+      "servicePrices": {},
+      "travelFees": 0,
+      "discount": 0,
+      "discountType": "amount",
       "paidToTechs": [
         "David",
         "Gabriel"
@@ -125,7 +132,15 @@
       "id": "vq81l5vmmmlzpx95j",
       "duration": 240,
       "type": "revenue",
-      "location": "2 Rue de la Halle 51270 Baye"
+      "location": "2 Rue de la Halle 51270 Baye",
+      "txType": "revenue",
+      "splitMode": "equitable",
+      "techAmounts": {},
+      "deposit": "",
+      "depositTechs": [],
+      "depositTechAmounts": {},
+      "depositSplitMode": "equitable",
+      "discountAmount": 0
     },
     {
       "date": "2026-02-24",
@@ -685,7 +700,8 @@
   ],
   "locations": [
     "Cormontreuil",
-    "8 Rue de montperthuis 51270 Baye"
+    "8 Rue de montperthuis 51270 Baye",
+    "2 Rue de la Halle 51270 Baye"
   ],
   "appointments": [
     {
