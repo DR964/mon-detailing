@@ -571,6 +571,45 @@
       "amountHT": 8.058333333333334,
       "totalTVA": 1.6116666666666664,
       "discountAmount": 0
+    },
+    {
+      "items": [
+        {
+          "id": "hl3kc6zhemm36tjxe",
+          "ref": "",
+          "description": "Green star 1L",
+          "qty": "2",
+          "unitPrice": "10",
+          "taxRate": 20,
+          "priceMode": "ttc",
+          "unitPriceHT": "8.3333"
+        }
+      ],
+      "supplier": "",
+      "locationStreetNum": "",
+      "locationStreetName": "",
+      "locationZip": "",
+      "locationCity": "",
+      "date": "2026-02-26",
+      "time": "",
+      "paymentMethod": "espèce",
+      "invoiceFile": null,
+      "remarks": "",
+      "paidByTechs": [],
+      "splitMode": "equitable",
+      "techAmounts": {},
+      "deliveryFees": "",
+      "discount": "",
+      "discountType": "amount",
+      "id": "k4gdn6i8cmm36u45c",
+      "amount": 20,
+      "amountHT": 16.666666666666668,
+      "totalTVA": 3.333333333333332,
+      "type": "expense",
+      "productName": "Green star 1L",
+      "location": "",
+      "paidByTech": "",
+      "discountAmount": 0
     }
   ],
   "clients": [
