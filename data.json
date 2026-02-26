@@ -39,7 +39,20 @@
     },
     "nameOverrides": {
       "glass_cleaner_koch_chemie|1L": "Glass Cleaner"
-    }
+    },
+    "mergeGroups": [
+      {
+        "key": "grp_1772101758359",
+        "displayName": "Microfibre",
+        "memberKeys": [
+          "microfibre",
+          "cosmo_suede_40*40cm"
+        ],
+        "category": "outils",
+        "vol": "",
+        "keywords": []
+      }
+    ]
   },
   "revenues": [
     {
