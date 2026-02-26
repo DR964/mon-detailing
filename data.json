@@ -703,17 +703,6 @@
       "paymentMethod": "virement",
       "id": "95yiy2jlqmm0ohld7",
       "type": "transfer"
-    },
-    {
-      "date": "2026-02-26",
-      "from": "David",
-      "to": "Gabriel",
-      "amount": 1,
-      "note": "Voir comment trier dans l’onglet statistique / produit les machines, produit et outils en 3 sections avec dans machine les aspirateur karcher et les compresseur, dans outils les microfibres, pinceaux, brosse, applicateur, verre doseur, les pchit pchit et dans les produits, tous les produits référencé dans guide des produits avec obligatoirement leur contenance (si pas référencé dans la fiche facture, demandé quel contenance c’est. ",
-      "paymentMethod": "espèce",
-      "id": "gxuecey5vmm38nk8w",
-      "type": "transfer",
-      "txType": "transfer"
     }
   ]
 }
