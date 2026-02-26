@@ -19,7 +19,7 @@
     "invoiceFooter": "",
     "defaultLocation": "",
     "phone": "",
-    "compactHistory": true
+    "compactHistory": false
   },
   "revenues": [
     {
