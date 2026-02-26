@@ -76,7 +76,10 @@
         "vol": "",
         "keywords": []
       }
-    ]
+    ],
+    "qtyOverrides": {
+      "i2f13dtnpmm0777ic_2026-02-21": 4
+    }
   },
   "revenues": [
     {
