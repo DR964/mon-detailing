@@ -202,64 +202,71 @@
           "id": "jh4k74qthmm06zyzr",
           "ref": "Η 4066529001580",
           "description": "DETACHEUR SE3 COMPACT PORTABLE KARCHER",
-          "qty": 1,
+          "qty": 4,
           "unitPrice": "190",
           "taxRate": 20,
-          "priceMode": "ttc"
+          "priceMode": "ttc",
+          "total": 760
         },
         {
           "id": "63mtd03e0mm070sl2",
           "ref": "Η 4054278950914",
           "description": "ASPI KARCHER WD3S JEU DE BROSSES",
-          "qty": 1,
+          "qty": 4,
           "unitPrice": "94.90",
           "taxRate": 20,
-          "priceMode": "ttc"
+          "priceMode": "ttc",
+          "total": 379.6
         },
         {
           "id": "l9oxgd7egmm072col",
           "ref": "Η 4066529108647",
           "description": "NETT VAPEUR SC3+LINGETTE SP  KARCHER BLC",
-          "qty": 1,
+          "qty": 4,
           "unitPrice": "129",
           "taxRate": 20,
-          "priceMode": "ttc"
+          "priceMode": "ttc",
+          "total": 516
         },
         {
           "id": "l4z6e3u8lmm072uzp",
           "ref": "Η 4003073937927",
           "description": "C LOT 4 EPONGE MICROFIBRE RECYCLEE",
-          "qty": 1,
+          "qty": 4,
           "unitPrice": "9.99",
           "taxRate": 20,
-          "priceMode": "ttc"
+          "priceMode": "ttc",
+          "total": 39.96
         },
         {
           "id": "994w524mvmm073uzo",
           "ref": "Η 7319599010516",
           "description": "SUCEUR EXTRA LONG DEXTER DXFX20",
-          "qty": 1,
+          "qty": 4,
           "unitPrice": "9.99",
           "taxRate": 20,
-          "priceMode": "ttc"
+          "priceMode": "ttc",
+          "total": 39.96
         },
         {
           "id": "cbqljo0oumm074d2p",
           "ref": "Η 4039784712645",
           "description": "NETTOY PROTECT MOQUET TAPIS 0.5L  KARCHER",
-          "qty": 1,
+          "qty": 4,
           "unitPrice": "24.90",
           "taxRate": 20,
-          "priceMode": "ttc"
+          "priceMode": "ttc",
+          "total": 99.6
         },
         {
           "id": "t0xymrczrmm075196",
           "ref": "Η 4039784712669",
           "description": "NETTOYANT RM519 POUR SE4001 KARCHER",
-          "qty": 1,
+          "qty": 4,
           "unitPrice": "11.90",
           "taxRate": 20,
-          "priceMode": "ttc"
+          "priceMode": "ttc",
+          "total": 47.6
         }
       ],
       "supplier": "Leroy Merlin",
@@ -275,7 +282,7 @@
         "Gabriel"
       ],
       "id": "i2f13dtnpmm0777ic",
-      "amount": 470.67999999999995,
+      "amount": 1882.7199999999998,
       "type": "expense",
       "productName": "DETACHEUR SE3 COMPACT PORTABLE KARCHER, ASPI KARCHER WD3S JEU DE BROSSES, NETT VAPEUR SC3+LINGETTE SP  KARCHER BLC, C LOT 4 EPONGE MICROFIBRE RECYCLEE, SUCEUR EXTRA LONG DEXTER DXFX20, NETTOY PROTECT MOQUET TAPIS 0.5L  KARCHER, NETTOYANT RM519 POUR SE4001 KARCHER",
       "location": "Cormontreuil",
