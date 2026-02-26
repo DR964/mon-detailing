@@ -18,7 +18,8 @@
     "accentColor": "#ef4444",
     "invoiceFooter": "",
     "defaultLocation": "",
-    "phone": ""
+    "phone": "",
+    "compactHistory": true
   },
   "revenues": [
     {
