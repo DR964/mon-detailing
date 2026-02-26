@@ -573,6 +573,45 @@
       "amountHT": 8.058333333333334,
       "totalTVA": 1.6116666666666664,
       "discountAmount": 0
+    },
+    {
+      "items": [
+        {
+          "id": "plv2naxmxmm3808q1",
+          "ref": "",
+          "description": "Leather Star 1L",
+          "qty": 1,
+          "unitPrice": "7",
+          "taxRate": 20,
+          "priceMode": "ttc",
+          "unitPriceHT": "5.8333"
+        }
+      ],
+      "supplier": "",
+      "locationStreetNum": "",
+      "locationStreetName": "",
+      "locationZip": "",
+      "locationCity": "",
+      "date": "2026-02-26",
+      "time": "",
+      "paymentMethod": "espèce",
+      "invoiceFile": null,
+      "remarks": "",
+      "paidByTechs": [],
+      "splitMode": "equitable",
+      "techAmounts": {},
+      "deliveryFees": "",
+      "discount": "",
+      "discountType": "amount",
+      "id": "3xzeuiw9lmm380kax",
+      "amount": 7,
+      "amountHT": 5.833333333333334,
+      "totalTVA": 1.166666666666666,
+      "type": "expense",
+      "productName": "Leather Star 1L",
+      "location": "",
+      "paidByTech": "",
+      "discountAmount": 0
     }
   ],
   "clients": [
