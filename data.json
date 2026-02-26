@@ -38,7 +38,8 @@
       "c_lot_4_eponge_microfibre_recyclee": "4"
     },
     "nameOverrides": {
-      "glass_cleaner_koch_chemie|1L": "Glass Cleaner"
+      "glass_cleaner_koch_chemie|1L": "Glass Cleaner",
+      "doseur|60ml": "Doseur 60ml"
     },
     "mergeGroups": [
       {
