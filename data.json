@@ -29,6 +29,9 @@
       "elastomap": "outils",
       "c_lot_4_eponge_microfibre_recyclee": "outils",
       "c_set_brosse_dexter_50/85/100mm_3pcs": "outils"
+    },
+    "volOverrides": {
+      "leather_star": "1L"
     }
   },
   "revenues": [
