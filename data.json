@@ -63,6 +63,17 @@
         "category": "outils",
         "vol": "",
         "keywords": []
+      },
+      {
+        "key": "grp_1772101822386",
+        "displayName": "Pinceau",
+        "memberKeys": [
+          "set_de_pinceaux_10_pcs",
+          "pinceau"
+        ],
+        "category": "outils",
+        "vol": "",
+        "keywords": []
       }
     ]
   },
