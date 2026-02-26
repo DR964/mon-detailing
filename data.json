@@ -82,7 +82,10 @@
       "08h0zdetsmm0og7sy_2026-02-22": 1,
       "1k4o3u3wkmm07feud_2026-02-21": 1
     },
-    "apeCode": ""
+    "apeCode": "",
+    "lateFeesNote": "",
+    "paymentDays": "",
+    "penaltyRate": ""
   },
   "revenues": [
     {
