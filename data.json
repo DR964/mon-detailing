@@ -32,6 +32,9 @@
     },
     "volOverrides": {
       "leather_star": "1L"
+    },
+    "nameOverrides": {
+      "glass_cleaner_koch_chemie|1L": "Glass Cleaner"
     }
   },
   "revenues": [
