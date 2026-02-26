@@ -51,6 +51,18 @@
         "category": "outils",
         "vol": "",
         "keywords": []
+      },
+      {
+        "key": "grp_1772101805434",
+        "displayName": "Brosse",
+        "memberKeys": [
+          "c_set_brosse_dexter_50/85/100mm_3pcs",
+          "brosse_de_nettoyage_cuir",
+          "carpro_leather_brush"
+        ],
+        "category": "outils",
+        "vol": "",
+        "keywords": []
       }
     ]
   },
