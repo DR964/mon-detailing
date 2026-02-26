@@ -15,7 +15,8 @@
     "tvaRate": "0",
     "siret": "0",
     "email": "",
-    "accentColor": "#ef4444"
+    "accentColor": "#ef4444",
+    "invoiceFooter": ""
   },
   "revenues": [
     {
