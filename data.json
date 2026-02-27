@@ -686,7 +686,15 @@
       "streetName": "Rue de Montperthuis",
       "zip": "51270",
       "city": "Baye",
-      "note": 5
+      "note": 5,
+      "clientNotes": [
+        {
+          "id": "ltvzaag34mm4nlweu",
+          "date": "2026-02-27",
+          "text": "RDV annulé du 27/02/2026 — test",
+          "type": "cancellation"
+        }
+      ]
     },
     {
       "id": "oqxbspa2amm1v9rug",
@@ -784,7 +792,7 @@
       "services": [],
       "customService": "",
       "technicians": [],
-      "status": "en attente",
+      "status": "annulé",
       "priority": "normale",
       "estimatedPrice": "",
       "deposit": "",
@@ -803,7 +811,9 @@
       "vehicleSize": "citadine",
       "id": "v0lnbi2tfmm4nlnnq",
       "duration": 0,
-      "location": ""
+      "location": "",
+      "cancellationReason": "test",
+      "cancellationDate": "2026-02-27"
     }
   ],
   "transfers": [
