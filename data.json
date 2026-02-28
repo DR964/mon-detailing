@@ -661,6 +661,79 @@
       "amountHT": 8.058333333333334,
       "totalTVA": 1.6116666666666664,
       "discountAmount": 0
+    },
+    {
+      "items": [
+        {
+          "id": "d9zpay1vumm64433j",
+          "ref": "",
+          "description": "Pinceau maquillage",
+          "qty": "3",
+          "unitPrice": "0.99",
+          "taxRate": 20,
+          "priceMode": "ttc",
+          "unitPriceHT": "0.8250"
+        },
+        {
+          "id": "fnm5dib4xmm6451cp",
+          "ref": "",
+          "description": "Pinceau large peinture",
+          "qty": 1,
+          "unitPrice": "2.49",
+          "taxRate": 20,
+          "priceMode": "ttc",
+          "unitPriceHT": "2.0750"
+        },
+        {
+          "id": "g9jd96utrmm645n18",
+          "ref": "",
+          "description": "Gants noirs",
+          "qty": 1,
+          "unitPrice": "4.95",
+          "taxRate": 20,
+          "priceMode": "ttc",
+          "unitPriceHT": "4.1250"
+        },
+        {
+          "id": "frq0rv2s6mm645zl6",
+          "ref": "",
+          "description": "Arroseur plante",
+          "qty": "5",
+          "unitPrice": "0.86",
+          "taxRate": 20,
+          "priceMode": "ttc",
+          "unitPriceHT": "0.7167"
+        }
+      ],
+      "supplier": "Action",
+      "locationStreetNum": "",
+      "locationStreetName": "",
+      "locationZip": "",
+      "locationCity": "",
+      "date": "2026-02-28",
+      "time": "10:15",
+      "paymentMethod": "espèce",
+      "invoiceFile": null,
+      "remarks": "",
+      "paidByTechs": [
+        "Gabriel"
+      ],
+      "splitMode": "equitable",
+      "techAmounts": {
+        "Gabriel": 14.71
+      },
+      "deliveryFees": "",
+      "discount": "",
+      "discountType": "amount",
+      "id": "b4e6op461mm647ztr",
+      "amount": 14.71,
+      "amountHT": 12.258333333333335,
+      "totalTVA": 2.451666666666666,
+      "type": "expense",
+      "productName": "Pinceau maquillage, Pinceau large peinture, Gants noirs, Arroseur plante",
+      "location": "",
+      "paidByTech": "Gabriel",
+      "discountAmount": 0
     }
   ],
   "clients": [
