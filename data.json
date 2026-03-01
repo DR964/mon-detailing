@@ -19,7 +19,7 @@
     "accentColor": "#ef4444",
     "invoiceFooter": "",
     "defaultLocation": "",
-    "phone": "",
+    "phone": "06",
     "compactHistory": false,
     "classOverrides": {
       "suceur_extra_long_dexter_dxfx20": "outils",
