@@ -250,12 +250,16 @@
       "travelFees": 0,
       "discount": 0,
       "discountType": "amount",
+      "tip": 0,
+      "paymentStatus": "paid",
       "paidToTechs": [
-        "Gabriel"
+        "Gabriel",
+        "David"
       ],
       "splitMode": "equitable",
       "techAmounts": {
-        "Gabriel": 50
+        "Gabriel": 25,
+        "David": 25
       },
       "deposit": "",
       "depositTechs": [],
