@@ -222,8 +222,8 @@
       "clientZip": "",
       "clientCity": "",
       "clientNote": 3,
-      "amount": 0,
-      "amountHT": 0,
+      "amount": 50,
+      "amountHT": 41.66666666666667,
       "taxRate": 20,
       "priceMode": "ttc",
       "locationStreetNum": "",
@@ -236,7 +236,7 @@
       "invoiceNumber": "",
       "invoiceFile": null,
       "carPhoto": null,
-      "isGift": true,
+      "isGift": false,
       "technicians": [
         "David",
         "Gabriel"
@@ -260,7 +260,8 @@
       "discountAmount": 0,
       "duration": 180,
       "type": "revenue",
-      "location": ""
+      "location": "",
+      "txType": "revenue"
     },
     {
       "date": "2026-02-28",
