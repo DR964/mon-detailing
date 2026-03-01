@@ -970,6 +970,59 @@
       "location": "",
       "paidByTech": "Gabriel",
       "discountAmount": 0
+    },
+    {
+      "items": [
+        {
+          "id": "lk8n6k1chmm85cph1",
+          "ref": "",
+          "description": "Douille Torx. Embouts empreine",
+          "qty": 1,
+          "unitPrice": "2.90",
+          "taxRate": 20,
+          "priceMode": "ttc",
+          "unitPriceHT": "2.4167"
+        },
+        {
+          "id": "miaauqryfmm85djoi",
+          "ref": "",
+          "description": "Arbre magique",
+          "qty": 1,
+          "unitPrice": "1.50",
+          "taxRate": 20,
+          "priceMode": "ttc",
+          "unitPriceHT": "1.2500"
+        }
+      ],
+      "supplier": "Leclerc Auto",
+      "locationStreetNum": "",
+      "locationStreetName": "",
+      "locationZip": "",
+      "locationCity": "",
+      "date": "2026-02-28",
+      "time": "16:05",
+      "paymentMethod": "espèce",
+      "invoiceFile": null,
+      "remarks": "",
+      "paidByTechs": [
+        "David"
+      ],
+      "splitMode": "equitable",
+      "techAmounts": {
+        "David": 4.4
+      },
+      "deliveryFees": "",
+      "discount": "",
+      "discountType": "amount",
+      "id": "94tc5qtclmm85ebb6",
+      "amount": 4.4,
+      "amountHT": 3.6666666666666665,
+      "totalTVA": 0.7333333333333338,
+      "type": "expense",
+      "productName": "Douille Torx. Embouts empreine, Arbre magique",
+      "location": "",
+      "paidByTech": "David",
+      "discountAmount": 0
     }
   ],
   "clients": [
