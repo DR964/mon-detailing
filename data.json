@@ -231,15 +231,15 @@
       "locationZip": "",
       "locationCity": "",
       "paymentMethod": "espèce",
-      "paidToTech": "",
+      "paidToTech": "Gabriel",
       "remarks": "",
       "invoiceNumber": "",
       "invoiceFile": null,
       "carPhoto": null,
       "isGift": false,
       "technicians": [
-        "David",
-        "Gabriel"
+        "Gabriel",
+        "David"
       ],
       "prestations": [
         "Lavage intérieur"
@@ -249,9 +249,13 @@
       "travelFees": 0,
       "discount": 0,
       "discountType": "amount",
-      "paidToTechs": [],
+      "paidToTechs": [
+        "Gabriel"
+      ],
       "splitMode": "equitable",
-      "techAmounts": {},
+      "techAmounts": {
+        "Gabriel": 50
+      },
       "deposit": "",
       "depositTechs": [],
       "depositTechAmounts": {},
