@@ -1111,6 +1111,70 @@
       "paidByTech": "David",
       "discountAmount": 0,
       "txType": "expense"
+    },
+    {
+      "items": [
+        {
+          "id": "kom9z357amm85mgb8",
+          "ref": "2518124",
+          "description": "Arroseur de plantes",
+          "qty": "3",
+          "unitPrice": "0.86",
+          "taxRate": 20,
+          "priceMode": "ttc",
+          "unitPriceHT": "0.7167",
+          "unitPriceTTC": "3.6000"
+        },
+        {
+          "id": "5oq3yhmh0mm85nbyr",
+          "ref": "3008282",
+          "description": "Chiffon sec microfibre",
+          "qty": 1,
+          "unitPrice": "1.99",
+          "taxRate": 20,
+          "priceMode": "ttc",
+          "unitPriceHT": "1.6583"
+        },
+        {
+          "id": "4ay0uiasvmm85nvlr",
+          "ref": "",
+          "description": "5 microfibres",
+          "qty": 1,
+          "unitPrice": "1.99",
+          "taxRate": 20,
+          "priceMode": "ttc",
+          "unitPriceHT": "1.6583"
+        }
+      ],
+      "supplier": "Action",
+      "locationStreetNum": "",
+      "locationStreetName": "",
+      "locationZip": "",
+      "locationCity": "",
+      "date": "2026-03-01",
+      "time": "",
+      "paymentMethod": "espèce",
+      "invoiceFile": null,
+      "remarks": "",
+      "paidByTechs": [
+        "David"
+      ],
+      "splitMode": "equitable",
+      "techAmounts": {
+        "David": 6.56
+      },
+      "deliveryFees": "",
+      "discount": "",
+      "discountType": "amount",
+      "id": "kys713a2pmm85odhf",
+      "amount": 6.5600000000000005,
+      "amountHT": 5.466666666666667,
+      "totalTVA": 1.0933333333333337,
+      "type": "expense",
+      "productName": "Arroseur de plantes, Chiffon sec microfibre, 5 microfibres",
+      "location": "",
+      "paidByTech": "David",
+      "discountAmount": 0
     }
   ],
   "clients": [
