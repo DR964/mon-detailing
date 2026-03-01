@@ -1164,8 +1164,8 @@
       "locationStreetName": "",
       "locationZip": "",
       "locationCity": "",
-      "date": "2026-03-01",
-      "time": "",
+      "date": "2026-02-28",
+      "time": "15:00",
       "paymentMethod": "espèce",
       "invoiceFile": null,
       "remarks": "",
@@ -1187,7 +1187,8 @@
       "productName": "Arroseur de plantes, Chiffon sec microfibre, 5 microfibres",
       "location": "",
       "paidByTech": "David",
-      "discountAmount": 0
+      "discountAmount": 0,
+      "txType": "expense"
     }
   ],
   "clients": [
