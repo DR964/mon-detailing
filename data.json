@@ -87,7 +87,8 @@
     "lateFeesNote": "",
     "paymentDays": "",
     "penaltyRate": "",
-    "excludeGiftsFromStats": true
+    "excludeGiftsFromStats": true,
+    "historyView": "small"
   },
   "revenues": [
     {
