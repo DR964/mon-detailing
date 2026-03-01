@@ -1042,8 +1042,8 @@
       "locationStreetName": "",
       "locationZip": "",
       "locationCity": "",
-      "date": "2026-03-01",
-      "time": "",
+      "date": "2026-02-28",
+      "time": "10:20",
       "paymentMethod": "espèce",
       "invoiceFile": null,
       "remarks": "",
@@ -1065,7 +1065,8 @@
       "productName": "Marqueurs ×2",
       "location": "",
       "paidByTech": "David",
-      "discountAmount": 0
+      "discountAmount": 0,
+      "txType": "expense"
     }
   ],
   "clients": [
