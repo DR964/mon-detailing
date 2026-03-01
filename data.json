@@ -379,6 +379,63 @@
       "type": "revenue",
       "location": "",
       "txType": "revenue"
+    },
+    {
+      "date": "2026-03-01",
+      "timeStart": "15:00",
+      "timeEnd": "16:30",
+      "vehicleId": "rwbbjutfzmm7y6132",
+      "plate": "DW696SG",
+      "brand": "Opel",
+      "model": "Vivaro",
+      "vehicleSize": "berline",
+      "difficulty": 1,
+      "clientId": "wk4ngrrbdmm7y6131",
+      "clientFirst": "Bruno",
+      "clientLast": "Real",
+      "clientPhone": "",
+      "clientStreetNum": "",
+      "clientStreetName": "",
+      "clientZip": "",
+      "clientCity": "",
+      "clientNote": 3,
+      "amount": 0,
+      "amountHT": 0,
+      "taxRate": 20,
+      "priceMode": "ttc",
+      "locationStreetNum": "",
+      "locationStreetName": "",
+      "locationZip": "",
+      "locationCity": "",
+      "paymentMethod": "espèce",
+      "paidToTech": "",
+      "remarks": "",
+      "invoiceNumber": "",
+      "invoiceFile": null,
+      "carPhoto": null,
+      "isGift": true,
+      "technicians": [
+        "David",
+        "Gabriel"
+      ],
+      "prestations": [],
+      "customPrestation": "",
+      "servicePrices": {},
+      "travelFees": 0,
+      "discount": 0,
+      "discountType": "amount",
+      "paidToTechs": [],
+      "splitMode": "equitable",
+      "techAmounts": {},
+      "deposit": "",
+      "depositTechs": [],
+      "depositTechAmounts": {},
+      "depositSplitMode": "equitable",
+      "id": "01a2qtyhomm7y6132",
+      "discountAmount": 0,
+      "duration": 90,
+      "type": "revenue",
+      "location": ""
     }
   ],
   "expenses": [
@@ -988,6 +1045,18 @@
       "zip": "",
       "city": "",
       "note": 5
+    },
+    {
+      "id": "wk4ngrrbdmm7y6131",
+      "firstName": "Bruno",
+      "lastName": "Real",
+      "phone": "",
+      "address": "",
+      "streetNum": "",
+      "streetName": "",
+      "zip": "",
+      "city": "",
+      "note": 3
     }
   ],
   "vehicles": [
@@ -1046,6 +1115,14 @@
       "model": "Serie 1",
       "size": "autre",
       "ownerId": "ywv0wkheqmm6o875l"
+    },
+    {
+      "id": "rwbbjutfzmm7y6132",
+      "plate": "DW696SG",
+      "brand": "Opel",
+      "model": "Vivaro",
+      "size": "berline",
+      "ownerId": "wk4ngrrbdmm7y6131"
     }
   ],
   "locations": [
