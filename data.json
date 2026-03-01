@@ -14,7 +14,7 @@
       "Aspiration, plastiques et vitres"
     ],
     "tvaRate": "0",
-    "siret": "",
+    "siret": "123123412341234",
     "email": "",
     "accentColor": "#ef4444",
     "invoiceFooter": "",
@@ -93,7 +93,8 @@
     "companyAddress": "2 rue de la Halle",
     "companyZip": "51270",
     "companyCity": "Baye",
-    "tvaIntracom": ""
+    "tvaIntracom": "",
+    "website": ""
   },
   "revenues": [
     {
