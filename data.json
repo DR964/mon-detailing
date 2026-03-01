@@ -1023,6 +1023,49 @@
       "location": "",
       "paidByTech": "David",
       "discountAmount": 0
+    },
+    {
+      "items": [
+        {
+          "id": "3n5f75o4rmm85ehk6",
+          "ref": "2538346",
+          "description": "Marqueurs ×2",
+          "qty": 1,
+          "unitPrice": "1.89",
+          "taxRate": 20,
+          "priceMode": "ttc",
+          "unitPriceHT": "1.5750"
+        }
+      ],
+      "supplier": "Action",
+      "locationStreetNum": "",
+      "locationStreetName": "",
+      "locationZip": "",
+      "locationCity": "",
+      "date": "2026-03-01",
+      "time": "",
+      "paymentMethod": "espèce",
+      "invoiceFile": null,
+      "remarks": "",
+      "paidByTechs": [
+        "David"
+      ],
+      "splitMode": "equitable",
+      "techAmounts": {
+        "David": 1.89
+      },
+      "deliveryFees": "",
+      "discount": "",
+      "discountType": "amount",
+      "id": "lh4hxnedmmm85fxh5",
+      "amount": 1.89,
+      "amountHT": 1.575,
+      "totalTVA": 0.31499999999999995,
+      "type": "expense",
+      "productName": "Marqueurs ×2",
+      "location": "",
+      "paidByTech": "David",
+      "discountAmount": 0
     }
   ],
   "clients": [
