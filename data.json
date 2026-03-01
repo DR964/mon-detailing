@@ -321,6 +321,63 @@
       "type": "revenue",
       "location": "",
       "txType": "revenue"
+    },
+    {
+      "date": "2026-03-01",
+      "timeStart": "11:20",
+      "timeEnd": "12:40",
+      "vehicleId": "a8bh2rad5mm7otl76",
+      "plate": "JSP3",
+      "brand": "Peugeot",
+      "model": "206",
+      "vehicleSize": "citadine",
+      "difficulty": 2,
+      "clientId": "kzb7keyelmm7otl76",
+      "clientFirst": "Andreia",
+      "clientLast": "Corda",
+      "clientPhone": "",
+      "clientStreetNum": "",
+      "clientStreetName": "",
+      "clientZip": "",
+      "clientCity": "",
+      "clientNote": 5,
+      "amount": 0,
+      "amountHT": 0,
+      "taxRate": 20,
+      "priceMode": "ttc",
+      "locationStreetNum": "",
+      "locationStreetName": "",
+      "locationZip": "",
+      "locationCity": "",
+      "paymentMethod": "espèce",
+      "paidToTech": "",
+      "remarks": "",
+      "invoiceNumber": "",
+      "invoiceFile": null,
+      "carPhoto": null,
+      "isGift": true,
+      "technicians": [
+        "David",
+        "Gabriel"
+      ],
+      "prestations": [],
+      "customPrestation": "Aspiration, plastiques et vitres",
+      "servicePrices": {},
+      "travelFees": 0,
+      "discount": 0,
+      "discountType": "amount",
+      "paidToTechs": [],
+      "splitMode": "equitable",
+      "techAmounts": {},
+      "deposit": "",
+      "depositTechs": [],
+      "depositTechAmounts": {},
+      "depositSplitMode": "equitable",
+      "id": "4apc7p9shmm7otl76",
+      "discountAmount": 0,
+      "duration": 80,
+      "type": "revenue",
+      "location": ""
     }
   ],
   "expenses": [
@@ -918,6 +975,18 @@
       "zip": "",
       "city": "",
       "note": 4
+    },
+    {
+      "id": "kzb7keyelmm7otl76",
+      "firstName": "Andreia",
+      "lastName": "Corda",
+      "phone": "",
+      "address": "",
+      "streetNum": "",
+      "streetName": "",
+      "zip": "",
+      "city": "",
+      "note": 5
     }
   ],
   "vehicles": [
@@ -952,6 +1021,14 @@
       "model": "Soltechnique ",
       "size": "utilitaire",
       "ownerId": "x5gedes14mm6azg54"
+    },
+    {
+      "id": "a8bh2rad5mm7otl76",
+      "plate": "JSP3",
+      "brand": "Peugeot",
+      "model": "206",
+      "size": "citadine",
+      "ownerId": "kzb7keyelmm7otl76"
     }
   ],
   "locations": [
