@@ -86,7 +86,8 @@
     "apeCode": "",
     "lateFeesNote": "",
     "paymentDays": "",
-    "penaltyRate": ""
+    "penaltyRate": "",
+    "excludeGiftsFromStats": true
   },
   "revenues": [
     {
