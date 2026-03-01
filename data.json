@@ -10,7 +10,8 @@
     "services": [
       "Lavage extérieur",
       "Lavage intérieur",
-      "Lavage complet"
+      "Lavage complet",
+      "Aspiration, plastiques et vitres"
     ],
     "tvaRate": "0",
     "siret": "",
@@ -346,8 +347,8 @@
       "clientZip": "",
       "clientCity": "",
       "clientNote": 5,
-      "amount": 55,
-      "amountHT": 45.833333333333336,
+      "amount": 50,
+      "amountHT": 41.66666666666667,
       "taxRate": 20,
       "priceMode": "ttc",
       "locationStreetNum": "",
@@ -371,6 +372,8 @@
       "travelFees": 0,
       "discount": 0,
       "discountType": "amount",
+      "tip": 5,
+      "paymentStatus": "paid",
       "paidToTechs": [],
       "splitMode": "equitable",
       "techAmounts": {},
