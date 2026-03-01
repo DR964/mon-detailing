@@ -1067,6 +1067,49 @@
       "paidByTech": "David",
       "discountAmount": 0,
       "txType": "expense"
+    },
+    {
+      "items": [
+        {
+          "id": "7mooksazsmm85hbbw",
+          "ref": "",
+          "description": "Cotton tige",
+          "qty": 1,
+          "unitPrice": "0.59",
+          "taxRate": 20,
+          "priceMode": "ttc",
+          "unitPriceHT": "0.4917"
+        }
+      ],
+      "supplier": "Aldi",
+      "locationStreetNum": "",
+      "locationStreetName": "",
+      "locationZip": "",
+      "locationCity": "",
+      "date": "2026-03-01",
+      "time": "",
+      "paymentMethod": "espèce",
+      "invoiceFile": null,
+      "remarks": "",
+      "paidByTechs": [
+        "David"
+      ],
+      "splitMode": "equitable",
+      "techAmounts": {
+        "David": 0.59
+      },
+      "deliveryFees": "",
+      "discount": "",
+      "discountType": "amount",
+      "id": "ubwybwxbymm85hkio",
+      "amount": 0.59,
+      "amountHT": 0.49166666666666664,
+      "totalTVA": 0.09833333333333333,
+      "type": "expense",
+      "productName": "Cotton tige",
+      "location": "",
+      "paidByTech": "David",
+      "discountAmount": 0
     }
   ],
   "clients": [
