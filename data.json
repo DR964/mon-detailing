@@ -438,12 +438,18 @@
         "David",
         "Gabriel"
       ],
-      "prestations": [],
+      "prestations": [
+        "Aspiration",
+        "Plastique",
+        "Siège"
+      ],
       "customPrestation": "",
       "servicePrices": {},
       "travelFees": 0,
       "discount": 0,
       "discountType": "amount",
+      "tip": 0,
+      "paymentStatus": "paid",
       "paidToTechs": [],
       "splitMode": "equitable",
       "techAmounts": {},
