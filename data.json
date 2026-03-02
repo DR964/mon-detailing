@@ -11,7 +11,8 @@
       "Moquette",
       "Siège",
       "Plastique",
-      "Aspiration"
+      "Aspiration",
+      "Aspiration, plastiques et vitres"
     ],
     "tvaRate": "0",
     "siret": "123123412341234",
@@ -378,7 +379,10 @@
         "David",
         "Gabriel"
       ],
-      "prestations": [],
+      "prestations": [
+        "Aspiration",
+        "Plastique"
+      ],
       "customPrestation": "Aspiration, plastiques et vitres",
       "servicePrices": {},
       "travelFees": 0,
