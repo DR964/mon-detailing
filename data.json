@@ -12,7 +12,8 @@
       "Siège",
       "Plastique",
       "Aspiration",
-      "Aspiration, plastiques et vitres"
+      "Vitres",
+      "Lavage intérieur"
     ],
     "tvaRate": "0",
     "siret": "123123412341234",
@@ -181,6 +182,9 @@
       "clientCity": "Baye",
       "clientNote": 5,
       "amount": 0,
+      "amountHT": 0,
+      "taxRate": 20,
+      "priceMode": "ttc",
       "locationStreetNum": "8",
       "locationStreetName": "Rue de montperthuis",
       "locationZip": "51270",
@@ -196,9 +200,18 @@
         "David"
       ],
       "prestations": [
-        "Lavage intérieur"
+        "Lavage intérieur",
+        "Vitres",
+        "Aspiration",
+        "Plastique"
       ],
       "customPrestation": "",
+      "servicePrices": {},
+      "travelFees": 0,
+      "discount": 0,
+      "discountType": "amount",
+      "tip": 0,
+      "paymentStatus": "paid",
       "paidToTechs": [
         "David"
       ],
@@ -211,7 +224,9 @@
       "id": "cp5o9o4pemm0xpbye",
       "duration": 60,
       "type": "revenue",
-      "location": "8 Rue de montperthuis 51270 Baye"
+      "location": "8 Rue de montperthuis 51270 Baye",
+      "txType": "revenue",
+      "discountAmount": 0
     },
     {
       "date": "2026-02-28",
