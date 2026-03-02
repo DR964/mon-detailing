@@ -7,7 +7,9 @@
       "David",
       "Gabriel"
     ],
-    "services": [],
+    "services": [
+      "Moquette"
+    ],
     "tvaRate": "0",
     "siret": "123123412341234",
     "email": "d&gdetailing@gmail.com",
