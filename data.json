@@ -10,7 +10,8 @@
     "services": [
       "Moquette",
       "Siège",
-      "Plastique"
+      "Plastique",
+      "Aspiration"
     ],
     "tvaRate": "0",
     "siret": "123123412341234",
