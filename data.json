@@ -36,7 +36,10 @@
       "nettoy_protect_moquet_tapis_karcher|500ml": "produits",
       "nettoyant_rm519_pour_se4001_karcher": "produits",
       "douille_torx._embouts_empreine": "outils",
-      "arbre_magique": "outils"
+      "arbre_magique": "outils",
+      "marqueurs_×2": "outils",
+      "cotton_tige": "outils",
+      "arroseur_de_plantes": "outils"
     },
     "volOverrides": {
       "leather_star": "1L",
