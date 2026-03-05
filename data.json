@@ -461,6 +461,7 @@
       "paidToTech": "",
       "remarks": "",
       "invoiceNumber": "FAC010326",
+      "isOfficialInvoice": true,
       "invoiceFile": null,
       "carPhoto": null,
       "isGift": false,
