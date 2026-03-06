@@ -11,7 +11,10 @@
       "Standard",
       "Premium",
       "Remise à Neuf",
-      "Devis Utilitaire"
+      "Devis Utilitaire",
+      "Aspiration",
+      "Plastique",
+      "Siège"
     ],
     "tvaRate": "0",
     "siret": "123123412341234",
@@ -469,7 +472,8 @@
       "prestations": [
         "Aspiration",
         "Plastique",
-        "Siège"
+        "Siège",
+        "Devis Utilitaire"
       ],
       "customPrestation": "",
       "servicePrices": {},
