@@ -8,16 +8,10 @@
       "Gabriel"
     ],
     "services": [
-      "Moquette",
-      "Siège",
-      "Plastique",
-      "Aspiration",
-      "Vitres",
-      "Lavage intérieur",
-      "Aspiration, plastiques et vitres",
       "Standard",
       "Premium",
-      "Remise à Neuf"
+      "Remise à Neuf",
+      "Devis Utilitaire"
     ],
     "tvaRate": "0",
     "siret": "123123412341234",
