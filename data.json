@@ -495,6 +495,68 @@
       "type": "revenue",
       "location": "",
       "txType": "revenue"
+    },
+    {
+      "date": "2026-03-08",
+      "timeStart": "16:00",
+      "timeEnd": "18:30",
+      "vehicleId": "sqk7a3x41mmhpf4sm",
+      "plate": "JSP1",
+      "brand": "Opel",
+      "model": "Astra",
+      "vehicleSize": "berline",
+      "difficulty": 3,
+      "clientId": "76vtvyjp1mmhpf4sm",
+      "clientFirst": "Gabriel",
+      "clientLast": "Real",
+      "clientPhone": "",
+      "clientStreetNum": "",
+      "clientStreetName": "",
+      "clientZip": "",
+      "clientCity": "",
+      "clientNote": 3,
+      "amount": 0,
+      "amountHT": 0,
+      "taxRate": 20,
+      "priceMode": "ttc",
+      "locationStreetNum": "",
+      "locationStreetName": "",
+      "locationZip": "",
+      "locationCity": "",
+      "paymentMethod": "espèce",
+      "paidToTech": "",
+      "remarks": "",
+      "invoiceNumber": "",
+      "isOfficialInvoice": false,
+      "invoiceFile": null,
+      "carPhoto": null,
+      "isGift": true,
+      "technicians": [
+        "David",
+        "Gabriel"
+      ],
+      "prestations": [
+        "Remise à Neuf"
+      ],
+      "customPrestation": "",
+      "servicePrices": {},
+      "travelFees": 0,
+      "discount": 0,
+      "discountType": "amount",
+      "tip": 0,
+      "paymentStatus": "paid",
+      "paidToTechs": [],
+      "splitMode": "equitable",
+      "techAmounts": {},
+      "deposit": "",
+      "depositTechs": [],
+      "depositTechAmounts": {},
+      "depositSplitMode": "equitable",
+      "id": "1xxkuksj1mmhpf4sm",
+      "discountAmount": 0,
+      "duration": 150,
+      "type": "revenue",
+      "location": ""
     }
   ],
   "expenses": [
@@ -1386,6 +1448,18 @@
           "ownerId": "wk4ngrrbdmm7y6131"
         }
       ]
+    },
+    {
+      "id": "76vtvyjp1mmhpf4sm",
+      "firstName": "Gabriel",
+      "lastName": "Real",
+      "phone": "",
+      "address": "",
+      "streetNum": "",
+      "streetName": "",
+      "zip": "",
+      "city": "",
+      "note": 3
     }
   ],
   "vehicles": [
@@ -1436,6 +1510,14 @@
       "model": "Vivaro",
       "size": "berline",
       "ownerId": "wk4ngrrbdmm7y6131"
+    },
+    {
+      "id": "sqk7a3x41mmhpf4sm",
+      "plate": "JSP1",
+      "brand": "Opel",
+      "model": "Astra",
+      "size": "berline",
+      "ownerId": "76vtvyjp1mmhpf4sm"
     }
   ],
   "locations": [
