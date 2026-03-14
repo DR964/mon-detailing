@@ -1525,6 +1525,14 @@
       "model": "Astra",
       "size": "berline",
       "ownerId": "76vtvyjp1mmhpf4sm"
+    },
+    {
+      "id": "b990byrdtmmqufoch",
+      "plate": "JSP10",
+      "brand": "Mini bus",
+      "model": "",
+      "size": "utilitaire",
+      "ownerId": "qv4ok6ylrmmquf6pd"
     }
   ],
   "locations": [
@@ -1541,8 +1549,8 @@
       "clientFirst": "Hugo",
       "clientLast": "",
       "clientPhone": "",
-      "vehicleId": "z2li9uiy2mm6azg54",
-      "plate": "JSP",
+      "vehicleId": "b990byrdtmmqufoch",
+      "plate": "JSP10",
       "brand": "Mini bus",
       "model": "",
       "services": [],
