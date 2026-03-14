@@ -1460,6 +1460,13 @@
       "zip": "",
       "city": "",
       "note": 3
+    },
+    {
+      "id": "qv4ok6ylrmmquf6pd",
+      "firstName": "Hugo",
+      "lastName": "",
+      "phone": "",
+      "note": 3
     }
   ],
   "vehicles": [
@@ -1525,7 +1532,47 @@
     "8 Rue de montperthuis 51270 Baye",
     "2 Rue de la Halle 51270 Baye"
   ],
-  "appointments": [],
+  "appointments": [
+    {
+      "date": "2026-03-21",
+      "timeStart": "",
+      "timeEnd": "",
+      "clientId": "qv4ok6ylrmmquf6pd",
+      "clientFirst": "Hugo",
+      "clientLast": "",
+      "clientPhone": "",
+      "vehicleId": "z2li9uiy2mm6azg54",
+      "plate": "JSP",
+      "brand": "Mini bus",
+      "model": "",
+      "services": [],
+      "customService": "",
+      "technicians": [
+        "David",
+        "Gabriel"
+      ],
+      "status": "en attente",
+      "priority": "normale",
+      "estimatedPrice": "",
+      "deposit": "",
+      "paymentMethod": "espèce",
+      "depositSplitMode": "equitable",
+      "depositTechs": [],
+      "depositTechAmounts": {},
+      "locationStreetNum": "",
+      "locationStreetName": "",
+      "locationZip": "",
+      "locationCity": "",
+      "notes": "",
+      "reminderSent": false,
+      "invoiceNumber": "",
+      "indoorOutdoor": "extérieur",
+      "vehicleSize": "utilitaire",
+      "id": "ynd00j8vmmmquf6pf",
+      "duration": 0,
+      "location": ""
+    }
+  ],
   "transfers": [
     {
       "date": "2026-02-24",
