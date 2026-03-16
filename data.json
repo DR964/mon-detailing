@@ -1295,6 +1295,79 @@
       "paidByTech": "David",
       "discountAmount": 0,
       "txType": "expense"
+    },
+    {
+      "items": [
+        {
+          "id": "8i19di7slmmsu174w",
+          "ref": "",
+          "description": "Spargo chiffon vitre",
+          "qty": "01",
+          "unitPrice": "0.69",
+          "taxRate": 20,
+          "priceMode": "ttc",
+          "unitPriceHT": "0.5750"
+        },
+        {
+          "id": "q086pww44mmsu24ak",
+          "ref": "",
+          "description": "Super peau chamois ",
+          "qty": "1",
+          "unitPrice": "0.78",
+          "taxRate": 20,
+          "priceMode": "ttc",
+          "unitPriceHT": "0.6500"
+        },
+        {
+          "id": "fuqd07zjcmmsu2lw7",
+          "ref": "",
+          "description": "Brosse a joint",
+          "qty": 1,
+          "unitPrice": "0.99",
+          "taxRate": 20,
+          "priceMode": "ttc",
+          "unitPriceHT": "0.8250"
+        },
+        {
+          "id": "bbff6z16kmmsu2ywk",
+          "ref": "",
+          "description": "Brosse a vaisselle ",
+          "qty": 1,
+          "unitPrice": "0.33",
+          "taxRate": 20,
+          "priceMode": "ttc",
+          "unitPriceHT": "0.2750"
+        }
+      ],
+      "supplier": "Action",
+      "locationStreetNum": "",
+      "locationStreetName": "",
+      "locationZip": "",
+      "locationCity": "",
+      "date": "2026-03-14",
+      "time": "17:50",
+      "paymentMethod": "carte",
+      "invoiceFile": null,
+      "remarks": "",
+      "paidByTechs": [
+        "David"
+      ],
+      "splitMode": "equitable",
+      "techAmounts": {
+        "David": 2.79
+      },
+      "deliveryFees": "",
+      "discount": "",
+      "discountType": "amount",
+      "id": "p9ts2ltajmmsu3wbb",
+      "amount": 2.79,
+      "amountHT": 2.325,
+      "totalTVA": 0.46499999999999986,
+      "type": "expense",
+      "productName": "Spargo chiffon vitre, Super peau chamois , Brosse a joint, Brosse a vaisselle ",
+      "location": "",
+      "paidByTech": "David",
+      "discountAmount": 0
     }
   ],
   "clients": [
