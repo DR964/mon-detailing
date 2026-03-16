@@ -39,7 +39,8 @@
       "arbre_magique": "outils",
       "marqueurs_×2": "outils",
       "cotton_tige": "outils",
-      "arroseur_de_plantes": "outils"
+      "arroseur_de_plantes": "outils",
+      "super_peau_chamois": "outils"
     },
     "volOverrides": {
       "leather_star": "1L",
