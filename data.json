@@ -1369,6 +1369,49 @@
       "location": "",
       "paidByTech": "David",
       "discountAmount": 0
+    },
+    {
+      "items": [
+        {
+          "id": "ferbjkf2xmmwcb9cb",
+          "ref": "",
+          "description": "Achat*",
+          "qty": 1,
+          "unitPrice": "112.68",
+          "taxRate": 20,
+          "priceMode": "ttc",
+          "unitPriceHT": "93.9000"
+        }
+      ],
+      "supplier": "Amazon",
+      "locationStreetNum": "",
+      "locationStreetName": "",
+      "locationZip": "",
+      "locationCity": "",
+      "date": "2026-03-18",
+      "time": "",
+      "paymentMethod": "espèce",
+      "invoiceFile": null,
+      "remarks": "",
+      "paidByTechs": [
+        "Gabriel"
+      ],
+      "splitMode": "equitable",
+      "techAmounts": {
+        "Gabriel": 112.68
+      },
+      "deliveryFees": "",
+      "discount": "",
+      "discountType": "amount",
+      "id": "obfz35js0mmwcch55",
+      "amount": 112.68,
+      "amountHT": 93.9,
+      "totalTVA": 18.78,
+      "type": "expense",
+      "productName": "Achat*",
+      "location": "",
+      "paidByTech": "Gabriel",
+      "discountAmount": 0
     }
   ],
   "clients": [
