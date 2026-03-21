@@ -558,6 +558,76 @@
       "duration": 150,
       "type": "revenue",
       "location": ""
+    },
+    {
+      "date": "2026-03-21",
+      "timeStart": "14:55",
+      "timeEnd": "18:30",
+      "vehicleId": "ixslgijk5mn0oeka8",
+      "plate": "FZ203VW",
+      "brand": "Opel",
+      "model": "Vivaro",
+      "vehicleSize": "utilitaire",
+      "difficulty": 3,
+      "clientId": "3accwsor1mn0oeka7",
+      "clientFirst": "Hugo",
+      "clientLast": "Ramos",
+      "clientPhone": "",
+      "clientStreetNum": "",
+      "clientStreetName": "",
+      "clientZip": "",
+      "clientCity": "Courgeonet",
+      "clientNote": 3,
+      "amount": 120,
+      "amountHT": 100,
+      "taxRate": 20,
+      "priceMode": "ttc",
+      "locationStreetNum": "",
+      "locationStreetName": "",
+      "locationZip": "",
+      "locationCity": "",
+      "paymentMethod": "espèce",
+      "paidToTech": "Gabriel",
+      "remarks": "",
+      "invoiceNumber": "",
+      "isOfficialInvoice": false,
+      "invoiceFile": null,
+      "carPhoto": null,
+      "isGift": false,
+      "technicians": [
+        "David",
+        "Gabriel"
+      ],
+      "prestations": [
+        "Remise à Neuf"
+      ],
+      "customPrestation": "",
+      "servicePrices": {},
+      "travelFees": 0,
+      "discount": 0,
+      "discountType": "amount",
+      "tip": 10,
+      "paymentStatus": "paid",
+      "paidToTechs": [
+        "Gabriel",
+        "David"
+      ],
+      "deposit": "",
+      "depositTechs": [],
+      "depositTechAmounts": {},
+      "depositSplitMode": "equitable",
+      "location": "",
+      "duration": 215,
+      "fromAppointmentId": "ynd00j8vmmmquf6pf",
+      "_apptIdToDelete": "ynd00j8vmmmquf6pf",
+      "splitMode": "equitable",
+      "techAmounts": {
+        "Gabriel": 60,
+        "David": 60
+      },
+      "id": "pzjxfmqjjmn0oeka8",
+      "discountAmount": 0,
+      "type": "revenue"
     }
   ],
   "expenses": [
@@ -1584,6 +1654,18 @@
       "lastName": "",
       "phone": "",
       "note": 3
+    },
+    {
+      "id": "3accwsor1mn0oeka7",
+      "firstName": "Hugo",
+      "lastName": "Ramos",
+      "phone": "",
+      "address": "Courgeonet",
+      "streetNum": "",
+      "streetName": "",
+      "zip": "",
+      "city": "Courgeonet",
+      "note": 3
     }
   ],
   "vehicles": [
@@ -1650,6 +1732,14 @@
       "model": "",
       "size": "utilitaire",
       "ownerId": "qv4ok6ylrmmquf6pd"
+    },
+    {
+      "id": "ixslgijk5mn0oeka8",
+      "plate": "FZ203VW",
+      "brand": "Opel",
+      "model": "Vivaro",
+      "size": "utilitaire",
+      "ownerId": "3accwsor1mn0oeka7"
     }
   ],
   "locations": [
@@ -1657,47 +1747,7 @@
     "8 Rue de montperthuis 51270 Baye",
     "2 Rue de la Halle 51270 Baye"
   ],
-  "appointments": [
-    {
-      "date": "2026-03-21",
-      "timeStart": "",
-      "timeEnd": "",
-      "clientId": "qv4ok6ylrmmquf6pd",
-      "clientFirst": "Hugo",
-      "clientLast": "",
-      "clientPhone": "",
-      "vehicleId": "b990byrdtmmqufoch",
-      "plate": "JSP10",
-      "brand": "Mini bus + voiture",
-      "model": "",
-      "services": [],
-      "customService": "",
-      "technicians": [
-        "David",
-        "Gabriel"
-      ],
-      "status": "terminé",
-      "priority": "normale",
-      "estimatedPrice": "200",
-      "deposit": "",
-      "paymentMethod": "espèce",
-      "depositSplitMode": "equitable",
-      "depositTechs": [],
-      "depositTechAmounts": {},
-      "locationStreetNum": "",
-      "locationStreetName": "",
-      "locationZip": "",
-      "locationCity": "",
-      "notes": "",
-      "reminderSent": false,
-      "invoiceNumber": "",
-      "indoorOutdoor": "extérieur",
-      "vehicleSize": "utilitaire",
-      "id": "ynd00j8vmmmquf6pf",
-      "duration": 0,
-      "location": ""
-    }
-  ],
+  "appointments": [],
   "transfers": [
     {
       "date": "2026-02-24",
