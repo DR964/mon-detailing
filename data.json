@@ -97,7 +97,7 @@
     "lateFeesNote": "",
     "paymentDays": "",
     "penaltyRate": "",
-    "excludeGiftsFromStats": false,
+    "excludeGiftsFromStats": true,
     "historyView": "list",
     "ownerName": "",
     "companyAddress": "2 rue de la Halle",
