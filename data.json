@@ -15,7 +15,8 @@
       "Aspiration",
       "Plastique",
       "Siège",
-      "Lavage intérieur"
+      "Lavage intérieur",
+      {}
     ],
     "tvaRate": "0",
     "siret": "123123412341234",
@@ -595,6 +596,7 @@
       "remarks": "",
       "invoiceNumber": "",
       "isOfficialInvoice": false,
+      "carpoolWith": "",
       "invoiceFile": null,
       "carPhoto": null,
       "isGift": false,
@@ -603,7 +605,8 @@
         "Gabriel"
       ],
       "prestations": [
-        {}
+        {},
+        "Remise à Neuf"
       ],
       "customPrestation": "",
       "servicePrices": {},
@@ -626,8 +629,8 @@
       "_apptIdToDelete": "ynd00j8vmmmquf6pf",
       "splitMode": "equitable",
       "techAmounts": {
-        "Gabriel": 60,
-        "David": 60
+        "Gabriel": 100,
+        "David": 100
       },
       "id": "pzjxfmqjjmn0oeka8",
       "discountAmount": 0,
@@ -635,7 +638,8 @@
       "_mergedFrom": [
         "pzjxfmqjjmn0oeka8",
         "ocfau1583mn0ogl1e"
-      ]
+      ],
+      "txType": "revenue"
     }
   ],
   "expenses": [
