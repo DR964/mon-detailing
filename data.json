@@ -1457,12 +1457,62 @@
         {
           "id": "ferbjkf2xmmwcb9cb",
           "ref": "",
-          "description": "Achat*",
+          "description": "Canon a mousse",
           "qty": 1,
-          "unitPrice": "112.68",
+          "unitPrice": "18.79",
           "taxRate": 20,
           "priceMode": "ttc",
-          "unitPriceHT": "93.9000"
+          "unitPriceHT": "15.6583"
+        },
+        {
+          "id": "7nl0ykf6emn1whymc",
+          "ref": "",
+          "description": "Canon a mousse",
+          "qty": 1,
+          "unitPrice": "26.49",
+          "taxRate": 20,
+          "priceMode": "ttc",
+          "unitPriceHT": "22.0750"
+        },
+        {
+          "id": "28gp0udjsmn1wi85i",
+          "ref": "",
+          "description": "Brosses blanches",
+          "qty": 1,
+          "unitPrice": "35.10",
+          "taxRate": 20,
+          "priceMode": "ttc",
+          "unitPriceHT": "29.2500"
+        },
+        {
+          "id": "s4k8a1t5emn1wii4a",
+          "ref": "",
+          "description": "Flacon mousseurs",
+          "qty": 1,
+          "unitPrice": "11.99",
+          "taxRate": 20,
+          "priceMode": "ttc",
+          "unitPriceHT": "9.9917"
+        },
+        {
+          "id": "g0tspha8bmn1wj330",
+          "ref": "",
+          "description": "Brosse nettoyage pare brise",
+          "qty": 1,
+          "unitPrice": "12.99",
+          "taxRate": 20,
+          "priceMode": "ttc",
+          "unitPriceHT": "10.8250"
+        },
+        {
+          "id": "kk8psydeumn1wjbn3",
+          "ref": "",
+          "description": "Nettoyage bouche de clim",
+          "qty": 1,
+          "unitPrice": "7.32",
+          "taxRate": 20,
+          "priceMode": "ttc",
+          "unitPriceHT": "6.1000"
         }
       ],
       "supplier": "Amazon",
@@ -1486,14 +1536,15 @@
       "discount": "",
       "discountType": "amount",
       "id": "obfz35js0mmwcch55",
-      "amount": 112.68,
-      "amountHT": 93.9,
-      "totalTVA": 18.78,
+      "amount": 112.67999999999998,
+      "amountHT": 93.89999999999999,
+      "totalTVA": 18.779999999999987,
       "type": "expense",
-      "productName": "Achat*",
+      "productName": "Canon a mousse, Canon a mousse, Brosses blanches, Flacon mousseurs, Brosse nettoyage pare brise, Nettoyage bouche de clim",
       "location": "",
       "paidByTech": "Gabriel",
-      "discountAmount": 0
+      "discountAmount": 0,
+      "txType": "expense"
     }
   ],
   "clients": [
