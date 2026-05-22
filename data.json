@@ -15,8 +15,7 @@
       "Aspiration",
       "Plastique",
       "Siège",
-      "Lavage intérieur",
-      {}
+      "Lavage intérieur"
     ],
     "tvaRate": "0",
     "siret": "123123412341234",
@@ -605,7 +604,6 @@
         "Gabriel"
       ],
       "prestations": [
-        {},
         "Remise à Neuf"
       ],
       "customPrestation": "",
@@ -1532,9 +1530,6 @@
       "techAmounts": {
         "Gabriel": 112.68
       },
-      "deliveryFees": "",
-      "discount": "",
-      "discountType": "amount",
       "id": "obfz35js0mmwcch55",
       "amount": 112.67999999999998,
       "amountHT": 93.89999999999999,
